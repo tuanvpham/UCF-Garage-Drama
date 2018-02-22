@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Garages</key>
+	<dict/>
+	<key>garageCoord</key>
+	<array/>
+	<key>garageName</key>
+	<string></string>
+	<key>Buildings </key>
+	<dict/>
+	<key>buildingName</key>
+	<string></string>
+	<key>buildingCoor</key>
+	<array/>
+</dict>
+</plist>
