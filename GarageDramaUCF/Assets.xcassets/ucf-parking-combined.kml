@@ -1,0 +1,3910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Parking Lots &amp; Garages 1718.kml</name>
+	<open>1</open>
+	<Style id="style64">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style45">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style73">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1080</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style2100">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style190">
+		<LineStyle>
+			<color>ff248e06</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59248e06</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style60">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style6">
+		<LineStyle>
+			<color>ff248e06</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style191">
+		<LineStyle>
+			<color>ff0000c1</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590000c1</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id341">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style190</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style4">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style9">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style79</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style33">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style890">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style310">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style90">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style63">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style47">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style58">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style99">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style8">
+		<LineStyle>
+			<color>b31223ab</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>591223ab</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style94</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style0">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style75</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style32">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style97">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style73</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style710">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style86</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style79">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style53">
+		<LineStyle>
+			<color>b3a20069</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59a20069</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style80">
+		<LineStyle>
+			<color>b20004cc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590004cc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style70">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style31">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style68">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style560">
+		<LineStyle>
+			<color>ff0000c1</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590000c1</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style89</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style28">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style23">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style107</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style96">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style14">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style120">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style65">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style66">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style62">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1081</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style87">
+		<LineStyle>
+			<color>b3a20069</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59a20069</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style18">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style57">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style660">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style83">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style10810">
+		<LineStyle>
+			<color>b3298c10</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59298c10</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style49">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style96</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style68</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style108">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style98">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style22">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style104">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style56">
+		<LineStyle>
+			<color>ff248e06</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59248e06</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style21">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style94">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style19">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style88</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style109">
+		<LineStyle>
+			<color>b20004cc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590004cc</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style59">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style44">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style950">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style10810</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style48">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style110">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style3">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style29">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style510">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style106">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style140">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style24">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style109</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1081">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style85</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style52">
+		<LineStyle>
+			<color>b3a20069</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59a20069</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style561</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style69">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style101">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style97</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style92</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style42">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style75">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style30">
+		<LineStyle>
+			<color>b20004cc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590004cc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style38">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style00">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style86">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style85">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style89">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style74">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style2">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style561">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style13">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style35">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style88">
+		<LineStyle>
+			<color>b3a20069</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59a20069</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style72">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style890</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style104</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style41">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style108</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style17">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style67">
+		<LineStyle>
+			<color>ff248e06</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style54">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style51">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style99</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style71">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style11">
+		<LineStyle>
+			<color>b30aadfe</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590aadfe</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style61">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style100">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style93">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style130">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style660</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style950</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1080">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style84">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style98</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style27">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style93</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style84</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style43">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style76">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style46">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style95">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style37">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style40">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style92">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style39">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style103">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style50">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style107">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style82">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style2101">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style400">
+		<LineStyle>
+			<color>b31223ab</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>591223ab</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style510</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style105">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style25">
+		<LineStyle>
+			<color>b3298c10</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d298c10</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style210">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style77">
+		<LineStyle>
+			<color>b2369a00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59369a00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style82</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style87</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style81">
+		<LineStyle>
+			<color>b200baff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900baff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style21010">
+		<LineStyle>
+			<color>b3298c10</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59298c10</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style102">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style16">
+		<LineStyle>
+			<color>b3298c10</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d298c10</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style15">
+		<LineStyle>
+			<color>b20004cc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>590004cc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style20">
+		<LineStyle>
+			<color>b2e300eb</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59e300eb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style55">
+		<LineStyle>
+			<color>b2d95200</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d95200</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style10">
+		<LineStyle>
+			<color>b3d03706</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>59d03706</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id340">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style191</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style560</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Parking Lots &amp; Garages</name>
+		<Placemark>
+			<name>Parking Garage A (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage A (B, C, D Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id70</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">147</SimpleData>
+					<SimpleData name="name">Parking Garage A</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20644,28.6003,0 -81.205803,28.600687,0 -81.204905,28.599478,0 -81.205533,28.599091,0 -81.20644900000001,28.600304,0 -81.20644,28.6003,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage B (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage B (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id8</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">89</SimpleData>
+					<SimpleData name="name">Parking Garage B</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.201137,28.597165,0 -81.19982400000001,28.597325,0 -81.199676,28.596643,0 -81.200991,28.596454,0 -81.20114,28.597168,0 -81.201137,28.597165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage C (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage C  (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id9</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">83</SimpleData>
+					<SimpleData name="name">Parking Garage C</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196309,28.602939,0 -81.19629399999999,28.601728,0 -81.19553024613288,28.6017405692952,0 -81.19491688642263,28.60193848751701,0 -81.19519190623211,28.60293536687227,0 -81.196309,28.602942,0 -81.196309,28.602939,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage D (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage D (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id10</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">97</SimpleData>
+					<SimpleData name="name">Parking Garage D</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196443,28.604803,0 -81.196443,28.6048,0 -81.196416,28.604812,0 -81.196386,28.604797,0 -81.196376,28.604765,0 -81.19644599999999,28.604702,0 -81.196933,28.604289,0 -81.19696999999999,28.604364,0 -81.196994,28.604364,0 -81.197058,28.604346,0 -81.197858,28.6051,0 -81.197885,28.605091,0 -81.197878,28.605189,0 -81.197855,28.605171,0 -81.197399,28.605554,0 -81.197334,28.60553,0 -81.197304,28.605572,0 -81.196443,28.604803,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage E (Towers)</name>
+			<description>Parking Garage E (Towers) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id11</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">134</SimpleData>
+					<SimpleData name="name">Parking Garage E</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.194822,28.606828,0 -81.19480799999999,28.606247,0 -81.19493,28.606249,0 -81.19493,28.606284,0 -81.19551,28.606279,0 -81.19551199999999,28.606245,0 -81.19561899999999,28.606248,0 -81.19562000000001,28.606826,0 -81.194822,28.606828,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage F (Events Garage)</name>
+			<description>Parking Garage F (Events Garage) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id12</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">141</SimpleData>
+					<SimpleData name="name">Parking Garage F</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196719,28.609148,0 -81.19662099999999,28.60910700000001,0 -81.196637,28.609069,0 -81.19613200000001,28.608849,0 -81.19610400000001,28.60887,0 -81.196001,28.608832,0 -81.196288,28.608282,0 -81.197016,28.608622,0 -81.196721,28.609148,0 -81.196719,28.609148,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage G (Towers)</name>
+			<description>Parking Garage G (Towers) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id13</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">131</SimpleData>
+					<SimpleData name="name">Parking Garage G</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.197799,28.609253,0 -81.19725200000001,28.609021,0 -81.197311,28.608924,0 -81.197334,28.608942,0 -81.197593,28.608493,0 -81.197563,28.608478,0 -81.197619,28.608362,0 -81.19817,28.608616,0 -81.197799,28.609253,0 -81.197801,28.609254,0 -81.197799,28.609254,0 -81.197799,28.609253,0 -81.197801,28.609254,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage H (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage H (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">151</SimpleData>
+					<SimpleData name="name">Parking Garage H</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20072500000001,28.605497,0 -81.20040299999999,28.604804,0 -81.201626,28.604432,0 -81.20187799999999,28.605139,0 -81.200778,28.605483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Garage I (B, C, D, Visitor Permits)</name>
+			<description>Parking Garage I (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id14</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">78</SimpleData>
+					<SimpleData name="name">Parking Garage I</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.205386,28.601502,0 -81.205483,28.600932,0 -81.205499,28.600876,0 -81.204249,28.600711,0 -81.204211,28.600711,0 -81.204099,28.601394,0 -81.205349,28.601559,0 -81.205392,28.601568,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Libra Garage (B, C, D, Visitor Permits)</name>
+			<open>1</open>
+			<description>Libra Garage (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id600</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">160</SimpleData>
+					<SimpleData name="name">Libra Garage</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.197135,28.596429,0 -81.197129,28.596359,0 -81.197076,28.596349,0 -81.196985,28.59561,0 -81.197033,28.5956,0 -81.197022,28.595487,0 -81.196883,28.595497,0 -81.196883,28.595539,0 -81.19646400000001,28.595582,0 -81.196502,28.595836,0 -81.196421,28.595845,0 -81.196502,28.596354,0 -81.196566,28.596349,0 -81.196577,28.596486,0 -81.197011,28.596434,0 -81.197017,28.596467,0 -81.197146,28.596462,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 70 - Aquarius Courtyard</name>
+			<description>Parking Lot 70 - Aquarius Courtyard - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id17</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="parking.kml#parkinglot">
+					<SimpleData name="number">parkinglot-70</SimpleData>
+					<SimpleData name="name">Parking Lot 70 - Aquarius Courtyard</SimpleData>
+					<SimpleData name="permit">None</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20528400000001,28.603439,0 -81.205225,28.603434,0 -81.205219,28.603836,0 -81.205217,28.604018,0 -81.205265,28.604032,0 -81.20524899999999,28.60405,0 -81.205319,28.604105,0 -81.20535099999999,28.604079,0 -81.205423,28.604074,0 -81.205439,28.603488,0 -81.205354,28.603493,0 -81.20535099999999,28.603413,0 -81.205287,28.60340800000001,0 -81.205281,28.603441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B1 (B Permits)</name>
+			<description>Parking Lot B1 (B Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id18</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b1</SimpleData>
+					<SimpleData name="name">Parking Lot B1</SimpleData>
+					<SimpleData name="permit">B Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20262099999999,28.59957,0 -81.203023,28.598976,0 -81.203118,28.598814,0 -81.203149,28.598809,0 -81.20323399999999,28.598873,0 -81.20331400000001,28.59890499999999,0 -81.203368,28.598936,0 -81.20348300000001,28.599001,0 -81.203211,28.599414,0 -81.20314,28.59938,0 -81.203058,28.599504,0 -81.202968,28.599604,0 -81.20286,28.599637,0 -81.202743,28.599616,0 -81.202653,28.599572,0 -81.20262099999999,28.59957,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B2 (B Permits)</name>
+			<description>Parking Lot B2 (B Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id26</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="parking.kml#parkinglot">
+					<SimpleData name="number">b2</SimpleData>
+					<SimpleData name="name">Parking Lot B2</SimpleData>
+					<SimpleData name="permit">B Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20207600000001,28.598283,0 -81.202039,28.598313,0 -81.202028,28.598348,0 -81.202021,28.598437,0 -81.201712,28.598923,0 -81.201593,28.59894,0 -81.201526,28.598973,0 -81.201447,28.598959,0 -81.20142300000001,28.598899,0 -81.201412,28.59879099999999,0 -81.201431,28.598702,0 -81.201408,28.598679,0 -81.201447,28.598621,0 -81.20165299999999,28.598326,0 -81.20175,28.598174,0 -81.20179899999999,28.59815499999999,0 -81.20207600000001,28.598283,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B3 (C Permits)</name>
+			<description>Parking Lot B3 (C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id27</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b3</SimpleData>
+					<SimpleData name="name">Parking Lot B3</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.203925,28.598617,0 -81.20389,28.59861099999999,0 -81.203872,28.598624,0 -81.203861,28.598647,0 -81.20389400000001,28.598667,0 -81.203727,28.598721,0 -81.203757,28.598666,0 -81.203743,28.598648,0 -81.203726,28.598645,0 -81.20371299999999,28.59864,0 -81.203688,28.598675,0 -81.20366799999999,28.598713,0 -81.203636,28.598704,0 -81.203602,28.598707,0 -81.20359000000001,28.598742,0 -81.203502,28.598716,0 -81.203507,28.598679,0 -81.20348799999999,28.598659,0 -81.20345399999999,28.598648,0 -81.20343800000001,28.598648,0 -81.20342100000001,28.59865,0 -81.203411,28.59866,0 -81.20339800000001,28.598684,0 -81.203312,28.59863,0 -81.203321,28.598594,0 -81.20330300000001,28.598571,0 -81.203796,28.597816,0 -81.20383099999999,28.597825,0 -81.203852,28.597806,0 -81.204278,28.598028,0 -81.204274,28.598044,0 -81.20431000000001,28.598073,0 -81.204193,28.598249,0 -81.20394899999999,28.598626,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B4 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B4 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id28</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b4</SimpleData>
+					<SimpleData name="name">Parking Lot B4</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.202709,28.597256,0 -81.20275700000001,28.597277,0 -81.202253,28.598042,0 -81.202186,28.598023,0 -81.20213099999999,28.597986,0 -81.202096,28.597963,0 -81.20204099999999,28.597918,0 -81.202001,28.597963,0 -81.201944,28.597908,0 -81.201882,28.597807,0 -81.20187900000001,28.597669,0 -81.201916,28.597603,0 -81.20189499999999,28.597575,0 -81.202235,28.59701400000001,0 -81.202296,28.597037,0 -81.202322,28.59702100000001,0 -81.20272300000001,28.597226,0 -81.202709,28.597256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B5 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B5 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id29</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b5</SimpleData>
+					<SimpleData name="name">Parking Lot B5</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20452400000001,28.597746,0 -81.20459527251347,28.59768544358453,0 -81.204663,28.597542,0 -81.20479899999999,28.597328,0 -81.204767,28.597276,0 -81.204769,28.597239,0 -81.20439,28.597043,0 -81.204353,28.59700399999999,0 -81.20432099999999,28.59698,0 -81.204308,28.596985,0 -81.20415800000001,28.5972,0 -81.204025,28.59742,0 -81.20398299999999,28.597493,0 -81.204015,28.597523,0 -81.204384,28.597705,0 -81.204482,28.597754,0 -81.204511,28.597746,0 -81.20452400000001,28.597746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B6 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B6 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id30</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b6</SimpleData>
+					<SimpleData name="name">Parking Lot B6</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.203272,28.5964,0 -81.20324599999999,28.596439,0 -81.20331,28.596476,0 -81.202979,28.59698,0 -81.202322,28.596575,0 -81.202634,28.59613,0 -81.202811,28.59622,0 -81.202872,28.596193,0 -81.203187,28.596327,0 -81.20323,28.596321,0 -81.203272,28.5964,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B7 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B7 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id31</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b7</SimpleData>
+					<SimpleData name="name">Parking Lot B7</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20250900000001,28.595628,0 -81.202331,28.595722,0 -81.202495,28.595908,0 -81.202457,28.595969,0 -81.202489,28.595995,0 -81.20190700000001,28.596516,0 -81.201483,28.596153,0 -81.20195699999999,28.595729,0 -81.20141599999999,28.595252,0 -81.20182699999999,28.594872,0 -81.201939,28.594873,0 -81.202455,28.595314,0 -81.202443,28.595434,0 -81.202511,28.595454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B7a (B, C Permits)</name>
+			<description>Parking Lot B7a (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id320</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b7a</SimpleData>
+					<SimpleData name="name">Parking Lot B7a</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.203508,28.595403,0 -81.20321,28.595356,0 -81.203247,28.59517900000001,0 -81.203551,28.595228,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B8 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B8 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id33</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b8</SimpleData>
+					<SimpleData name="name">Parking Lot B8</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.201672,28.594748,0 -81.201753,28.594829,0 -81.201668,28.594914,0 -81.201437,28.595153,0 -81.20139399999999,28.59514,0 -81.20134,28.595198,0 -81.20067899999999,28.595198,0 -81.200384,28.595193,0 -81.200394,28.595026,0 -81.20086999999999,28.595026,0 -81.20101,28.59503,0 -81.201036,28.595022,0 -81.201032,28.594838,0 -81.201027,28.594571,0 -81.201026,28.593969,0 -81.200931,28.593935,0 -81.200935,28.592609,0 -81.201025,28.592602,0 -81.20103,28.592562,0 -81.201725,28.592565,0 -81.201733,28.592612,0 -81.201801,28.592616,0 -81.201797,28.593807,0 -81.201752,28.593813,0 -81.20174400000001,28.594098,0 -81.201801,28.594102,0 -81.20179899999999,28.594652,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B9 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B9 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id34</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Parking Lots &amp; Garages 1718.kml#parkinglot">
+					<SimpleData name="number">b9</SimpleData>
+					<SimpleData name="name">Parking Lot B9</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19931200000001,28.596564,0 -81.199361,28.597225,0 -81.199411,28.597224,0 -81.199444,28.597427,0 -81.19942,28.597431,0 -81.19938999999999,28.597419,0 -81.199367,28.597417,0 -81.199394,28.597506,0 -81.199236,28.597515,0 -81.199202,28.597497,0 -81.19912100000001,28.597462,0 -81.199034,28.597445,0 -81.198921,28.597445,0 -81.198824,28.597439,0 -81.198824,28.59738,0 -81.198824,28.597314,0 -81.19879400000001,28.597261,0 -81.198719,28.597248,0 -81.198719,28.597301,0 -81.198517,28.597307,0 -81.198517,28.597261,0 -81.198413,28.597261,0 -81.198364,28.596696,0 -81.198553,28.596581,0 -81.198688,28.596522,0 -81.198785,28.596509,0 -81.19886,28.596493,0 -81.19893500000001,28.596495,0 -81.1992,28.596514,0 -81.19929500000001,28.596524,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B10 (C Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B10 (C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id19</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b10</SimpleData>
+					<SimpleData name="name">Parking Lot B10</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19792099999999,28.596766,0 -81.197835,28.596677,0 -81.19788800000001,28.59663,0 -81.19791499999999,28.596442,0 -81.197969,28.59642699999999,0 -81.197974,28.596347,0 -81.19803899999999,28.59631,0 -81.198398,28.596277,0 -81.198398,28.596357,0 -81.198301,28.596409,0 -81.19823700000001,28.596409,0 -81.19803899999999,28.596606,0 -81.19799,28.596701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B11 (C Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B11 (C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id20</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="parking.kml#parkinglot">
+					<SimpleData name="number">b11</SimpleData>
+					<SimpleData name="name">Parking Lot B11</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.197833,28.59732,0 -81.19768000000001,28.597423,0 -81.197658,28.597401,0 -81.19763,28.597384,0 -81.197576,28.597416,0 -81.197557,28.59741,0 -81.19747099999999,28.597322,0 -81.19713400000001,28.59754,0 -81.197014,28.597382,0 -81.197261,28.597224,0 -81.19740400000001,28.597151,0 -81.19744799999999,28.597204,0 -81.197701,28.597053,0 -81.197743,28.597027,0 -81.197813,28.59704,0 -81.197819,28.597098,0 -81.19769100000001,28.597181,0 -81.197703,28.597197,0 -81.197762,28.597218,0 -81.19784199999999,28.597314,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B15 (B, C, D, Visitor Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B15 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id220</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Parking Lots &amp; Garages 1718.kml#parkinglot">
+					<SimpleData name="number">b15</SimpleData>
+					<SimpleData name="name">Parking Lot B15</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19660399999999,28.595115,0 -81.19660399999999,28.595167,0 -81.196518,28.595167,0 -81.196518,28.595115,0 -81.196411,28.595115,0 -81.196405,28.594621,0 -81.19646400000001,28.594607,0 -81.19647000000001,28.594508,0 -81.196405,28.594503,0 -81.196389,28.594296,0 -81.196325,28.593712,0 -81.196411,28.593707,0 -81.196427,28.59365,0 -81.196523,28.593622,0 -81.19659799999999,28.593594,0 -81.196609,28.593665,0 -81.196668,28.59365,0 -81.196668,28.59358,0 -81.19677,28.593551,0 -81.196851,28.594512,0 -81.196657,28.59452599999999,0 -81.196657,28.594658,0 -81.19680200000001,28.594663,0 -81.196797,28.595111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B16 (B, C Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B16 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id23</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b16</SimpleData>
+					<SimpleData name="name">Parking Lot B16</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19649800000001,28.592245,0 -81.19652600000001,28.592171,0 -81.19659299999999,28.592097,0 -81.197005,28.592096,0 -81.197109,28.592149,0 -81.197214,28.592263,0 -81.197226,28.592494,0 -81.197006,28.592509,0 -81.19699,28.592268,0 -81.196915,28.592268,0 -81.19654300000001,28.592278,0 -81.19649800000001,28.592245,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B17 (B, C Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B17 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id24</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b17</SimpleData>
+					<SimpleData name="name">Parking Lot B17</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.195537,28.591271,0 -81.195538,28.591243,0 -81.19555800000001,28.591213,0 -81.195578,28.591186,0 -81.19568700000001,28.591161,0 -81.19595700000001,28.59117,0 -81.195959,28.59164,0 -81.196425,28.592067,0 -81.196412,28.59213,0 -81.19632900000001,28.59218,0 -81.195927,28.59251,0 -81.195903,28.592492,0 -81.19586200000001,28.592504,0 -81.195114,28.591806,0 -81.195126,28.591779,0 -81.195402,28.591546,0 -81.19542800000001,28.591526,0 -81.19547,28.591515,0 -81.19551199999999,28.591532,0 -81.195544,28.591559,0 -81.19571500000001,28.591713,0 -81.195565,28.591828,0 -81.195454,28.59193,0 -81.19596,28.592371,0 -81.196271,28.592133,0 -81.195831,28.591731,0 -81.195784,28.591554,0 -81.195543,28.59144,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B18 (B, C Permits)</name>
+			<open>1</open>
+			<description>Parking Lot B18 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id25</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">b18</SimpleData>
+					<SimpleData name="name">Parking Lot B18</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.197301,28.59093,0 -81.19669,28.59093,0 -81.196692,28.590885,0 -81.196631,28.590885,0 -81.196628,28.590845,0 -81.196488,28.590843,0 -81.19647999999999,28.590732,0 -81.197473,28.590721,0 -81.19747,28.590784,0 -81.197298,28.590787,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Partking Lot C2 (B, C Permits)</name>
+			<open>1</open>
+			<description>Partking Lot C2 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id80</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">c2</SimpleData>
+					<SimpleData name="name">Partking Lot C2</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196175,28.601075,0 -81.19579,28.601169,0 -81.195708,28.601176,0 -81.195615,28.601226,0 -81.195488,28.601348,0 -81.195393,28.601456,0 -81.19538300000001,28.601556,0 -81.195612,28.601564,0 -81.195735,28.601567,0 -81.195831,28.601567,0 -81.19598499999999,28.601559,0 -81.196133,28.601556,0 -81.19618333222265,28.6014033096931,0 -81.19621752237364,28.60128835060997,0 -81.19628746512205,28.60104726307422,0 -81.196175,28.601075,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Partking Lot C2 (B Permits)</name>
+			<open>1</open>
+			<description>Partking Lot C2 (B Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id800</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">c2</SimpleData>
+					<SimpleData name="name">Partking Lot C2</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19645429723276,28.6015674702986,0 -81.19666985987145,28.60103933515418,0 -81.19629425374345,28.60108025989098,0 -81.19616175501993,28.60154929035619,0 -81.19645429723276,28.6015674702986,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot C3 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot C3 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id36</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">c3</SimpleData>
+					<SimpleData name="name">Parking Lot C3</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.197475,28.599861,0 -81.196991,28.599276,0 -81.19768000000001,28.598849,0 -81.197706,28.598886,0 -81.197771,28.598843,0 -81.198223,28.599362,0 -81.197986,28.599509,0 -81.197943,28.599465,0 -81.197857,28.599516,0 -81.19790500000001,28.599588,0 -81.197532,28.599835,0 -81.197475,28.599861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot D1 (B, C Permits)</name>
+			<description>Parking Lot D1 (B, C, D Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id37</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">d1</SimpleData>
+					<SimpleData name="name">Parking Lot D1</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19787599999999,28.603681,0 -81.19808399999999,28.603573,0 -81.198272,28.603795,0 -81.198522,28.604017,0 -81.198454,28.604101,0 -81.198435,28.604196,0 -81.19851300000001,28.604243,0 -81.198148,28.604899,0 -81.198115,28.604874,0 -81.19794400000001,28.604928,0 -81.19789,28.604924,0 -81.19771900000001,28.604794,0 -81.19736,28.60447,0 -81.197176,28.604294,0 -81.197018,28.60409,0 -81.197039,28.604068,0 -81.197039,28.604026,0 -81.197016,28.604001,0 -81.196996,28.603975,0 -81.196967,28.603982,0 -81.196786,28.603668,0 -81.196637,28.603325,0 -81.196679,28.603309,0 -81.19665500000001,28.603234,0 -81.19672799999999,28.603157,0 -81.19671700000001,28.60311400000001,0 -81.196822,28.603081,0 -81.196943,28.603076,0 -81.197181,28.603081,0 -81.197192,28.60310399999999,0 -81.1973,28.603099,0 -81.197306,28.603073,0 -81.197475,28.603072,0 -81.197549,28.60313,0 -81.19757799999999,28.603124,0 -81.197598,28.603109,0 -81.197669,28.60311400000001,0 -81.19774200000001,28.603151,0 -81.19782499999999,28.603123,0 -81.197982,28.603389,0 -81.197782,28.603483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot D2 (D Permits)</name>
+			<description>Parking Lot D2 (D Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id38</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">d2</SimpleData>
+					<SimpleData name="name">Parking Lot D2</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196342,28.604577,0 -81.19628899999999,28.604438,0 -81.19587199999999,28.603464,0 -81.19592799999999,28.60344,0 -81.19599100000001,28.603433,0 -81.196122,28.603419,0 -81.19638399999999,28.60339099999999,0 -81.196504,28.603386,0 -81.19653,28.603403,0 -81.19655299999999,28.603436,0 -81.196592,28.603525,0 -81.19665999999999,28.603669,0 -81.19677299999999,28.603938,0 -81.196797,28.603995,0 -81.19682299999999,28.604047,0 -81.196837,28.604062,0 -81.196872,28.604051,0 -81.196913,28.604119,0 -81.19689099999999,28.604132,0 -81.196883,28.604152,0 -81.196882,28.604182,0 -81.196872,28.604221,0 -81.196612,28.604438,0 -81.19647500000001,28.604552,0 -81.196386,28.604592,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot E1 (B, C Permits)</name>
+			<description>Parking Lot E1 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id39</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">e1</SimpleData>
+					<SimpleData name="name">Parking Lot E1</SimpleData>
+					<SimpleData name="permit">C Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19381300000001,28.605881,0 -81.19384100000001,28.605842,0 -81.19393100000001,28.605896,0 -81.193972,28.60585,0 -81.194008,28.605867,0 -81.194078,28.605885,0 -81.194164,28.605896,0 -81.194138,28.605958,0 -81.19426,28.605963,0 -81.19427,28.605893,0 -81.194339,28.605884,0 -81.194455,28.605849,0 -81.194569,28.605771,0 -81.194604,28.605803,0 -81.194644,28.605877,0 -81.194604,28.605902,0 -81.194607,28.605965,0 -81.194489,28.60603,0 -81.194335,28.606067,0 -81.19428600000001,28.606069,0 -81.194283,28.606031,0 -81.194157,28.606028,0 -81.194147,28.606072,0 -81.193986,28.606049,0 -81.193905,28.606015,0 -81.19385200000001,28.60598299999999,0 -81.193792,28.605942,0 -81.19381300000001,28.605881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot E2 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot E2 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id400</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">e2</SimpleData>
+					<SimpleData name="name">Parking Lot E2</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19351399999999,28.607413,0 -81.193691,28.607205,0 -81.193707,28.607059,0 -81.19374999999999,28.606989,0 -81.193766,28.606767,0 -81.193836,28.606758,0 -81.193836,28.606089,0 -81.19364299999999,28.606089,0 -81.19364299999999,28.606763,0 -81.193718,28.606763,0 -81.193707,28.606937,0 -81.193686,28.606998,0 -81.19361000000001,28.60705,0 -81.193315,28.607036,0 -81.193181,28.607168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot E4 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot E4 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id41</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">e4</SimpleData>
+					<SimpleData name="name">Parking Lot E4</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.189802,28.60421,0 -81.18984500000001,28.604267,0 -81.189898,28.6043,0 -81.18996300000001,28.604314,0 -81.190027,28.604318,0 -81.19081,28.604323,0 -81.190805,28.603975,0 -81.189802,28.603979,0 -81.189802,28.604059,0 -81.189705,28.604083,0 -81.18960300000001,28.604111,0 -81.18950700000001,28.604172,0 -81.189448,28.604238,0 -81.18939899999999,28.604285,0 -81.18933,28.604262,0 -81.18904499999999,28.60453,0 -81.18933,28.604714,0 -81.189609,28.604413,0 -81.189587,28.604337,0 -81.189592,28.604271,0 -81.189678,28.604219,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H10 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot H10 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id43</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">h10</SimpleData>
+					<SimpleData name="name">Parking Lot H10</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.203155,28.606464,0 -81.202951,28.606627,0 -81.20273299999999,28.606796,0 -81.202676,28.60681,0 -81.20257599999999,28.606804,0 -81.20256000000001,28.606585,0 -81.202612,28.606544,0 -81.20271200000001,28.606529,0 -81.203059,28.60626,0 -81.20304899999999,28.606196,0 -81.203158,28.606146,0 -81.203417,28.606474,0 -81.203394,28.606537,0 -81.203391,28.606586,0 -81.20344799999999,28.606653,0 -81.20340400000001,28.606671,0 -81.203328,28.606674,0 -81.203295,28.606671,0 -81.203208,28.606531,0 -81.203155,28.606464,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H2 (B, C Permits)</name>
+			<description>Parking Lot H2 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id44</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">h2</SimpleData>
+					<SimpleData name="name">Parking Lot H2</SimpleData>
+					<SimpleData name="permit">B Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20268299999999,28.602063,0 -81.20381999999999,28.602061,0 -81.20380299999999,28.602517,0 -81.202668,28.602504,0 -81.202693,28.602063,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H3 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot H3 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id45</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">h3</SimpleData>
+					<SimpleData name="name">Parking Lot H3</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.204194,28.601551,0 -81.205549,28.60173,0 -81.205454,28.602205,0 -81.20503600000001,28.602162,0 -81.20506399999999,28.601907,0 -81.204893,28.601832,0 -81.20461899999999,28.6018,0 -81.204159,28.60174,0 -81.204194,28.60156,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H4 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot H4 (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id46</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="Parking Lots &amp; Garages 1718.kml#parkinglot">
+					<SimpleData name="number">h4</SimpleData>
+					<SimpleData name="name">Parking Lot H4</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.205611,28.603107,0 -81.204599,28.603228,0 -81.204589,28.603185,0 -81.204539,28.603179,0 -81.204516,28.603208,0 -81.20451300000001,28.603252,0 -81.204466,28.603252,0 -81.204469,28.603103,0 -81.204426,28.60308,0 -81.204122,28.603136,0 -81.20407899999999,28.603136,0 -81.204036,28.603112,0 -81.20401200000001,28.603077,0 -81.20402,28.602857,0 -81.20499700000001,28.602746,0 -81.20503100000001,28.602493,0 -81.20553200000001,28.602436,0 -81.20563799999999,28.603095,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H5 (Lake Claire)</name>
+			<description>Parking Lot H5 (Lake Claire) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id47</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">h5</SimpleData>
+					<SimpleData name="name">Parking Lot H5</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.204239,28.603898,0 -81.20417999999999,28.603895,0 -81.204156,28.603918,0 -81.204143,28.603971,0 -81.203746,28.603977,0 -81.20372,28.603942,0 -81.20371900000001,28.603869,0 -81.20366300000001,28.603875,0 -81.203669,28.603595,0 -81.203729,28.603592,0 -81.203729,28.603498,0 -81.20375799999999,28.603472,0 -81.20424800000001,28.60348,0 -81.204239,28.603898,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H6 (Lake Claire)</name>
+			<description>Parking Lot H6 (Lake Claire) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id48</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">h6</SimpleData>
+					<SimpleData name="name">Parking Lot H6</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.203549,28.604775,0 -81.203311,28.604773,0 -81.20329700000001,28.604691,0 -81.203294,28.604568,0 -81.2033,28.604416,0 -81.20352800000001,28.604416,0 -81.20354399999999,28.604477,0 -81.20365099999999,28.604482,0 -81.203654,28.604619,0 -81.203566,28.604627,0 -81.203549,28.604775,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H7 (Lake Claire)</name>
+			<description>Parking Lot H7 (Lake Claire) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id49</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">h7</SimpleData>
+					<SimpleData name="name">Parking Lot H7</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.202609,28.605322,0 -81.20260399999999,28.605396,0 -81.2022,28.605373,0 -81.202073,28.605332,0 -81.20204099999999,28.605257,0 -81.202298,28.605107,0 -81.2025,28.604964,0 -81.20256000000001,28.60494,0 -81.20263,28.604997,0 -81.202732,28.605,0 -81.202737,28.60512,0 -81.202709,28.605247,0 -81.202609,28.605322,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H8 (Lake Claire)</name>
+			<description>Parking Lot H8 (Lake Claire) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id50</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">h8</SimpleData>
+					<SimpleData name="name">Parking Lot H8</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20501,28.604303,0 -81.204956,28.604347,0 -81.204976,28.604473,0 -81.204909,28.604524,0 -81.20478199999999,28.604635,0 -81.204598,28.604775,0 -81.204446,28.60464,0 -81.204447,28.604429,0 -81.204444,28.604266,0 -81.204446,28.604192,0 -81.204533,28.604192,0 -81.204542,28.604111,0 -81.204741,28.604122,0 -81.20482199999999,28.60412,0 -81.204909,28.60412,0 -81.205056,28.604118,0 -81.205056,28.604176,0 -81.205027,28.604258,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H9 (Lake Claire)</name>
+			<description>Parking Lot H9 (Lake Claire) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id51</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="ucf-parking-combined.kml#parkinglot">
+					<SimpleData name="number">h9</SimpleData>
+					<SimpleData name="name">Parking Lot H9</SimpleData>
+					<SimpleData name="permit">Housing Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.204329,28.605031,0 -81.204303,28.605067,0 -81.204117,28.605201,0 -81.203909,28.605306,0 -81.203818,28.605215,0 -81.20379200000001,28.605228,0 -81.20375,28.605222,0 -81.203737,28.605184,0 -81.20365,28.605187,0 -81.203647,28.605143,0 -81.20364499999999,28.605073,0 -81.203647,28.605058,0 -81.203641,28.604971,0 -81.203636,28.60487,0 -81.203733,28.604862,0 -81.203733,28.604844,0 -81.203795,28.604813,0 -81.203841,28.604812,0 -81.20386999999999,28.604716,0 -81.203962,28.604708,0 -81.20406,28.604711,0 -81.2042,28.604715,0 -81.204229,28.60478,0 -81.20427599999999,28.60473500000001,0 -81.20436599999999,28.604799,0 -81.20434299999999,28.604828,0 -81.204438,28.604946,0 -81.204369,28.60501,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot - UCF Police (B, C, D, Visitor Permits)</name>
+			<open>1</open>
+			<description>Parking Lot - UCF Police (B, C, D, Visitor Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id15</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-59</SimpleData>
+					<SimpleData name="name">Parking Lot - UCF Police</SimpleData>
+					<SimpleData name="permit">D Permits</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.196157,28.592673,0 -81.19630600000001,28.592549,0 -81.19625000000001,28.592486,0 -81.19631,28.59241400000001,0 -81.196392,28.592493,0 -81.196462,28.592461,0 -81.196647,28.592631,0 -81.196601,28.592696,0 -81.19662099999999,28.592719,0 -81.19658099999999,28.592753,0 -81.196562,28.592767,0 -81.196575,28.592783,0 -81.19642899999999,28.592916,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot G415 (B, C Permits)</name>
+			<description>Parking Lot G415 (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id61</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20713468342556,28.60337337731507,0 -81.20713149365585,28.60324241096447,0 -81.20678824332494,28.60323836744291,0 -81.20639686610764,28.60315538331914,0 -81.20635116279124,28.60325890508557,0 -81.20667643513224,28.60334629944283,0 -81.20670026112836,28.60329478934482,0 -81.20681293398137,28.60330932673844,0 -81.20682879363783,28.60336362211443,0 -81.20713468342556,28.60337337731507,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot Live Oak (B, C Permits)</name>
+			<description>Parking Lot Live Oak (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id340</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20056290274216,28.59732231169048,0 -81.20022427985165,28.59736316205408,0 -81.20020941554877,28.59746028882559,0 -81.20049357046587,28.59744125812428,0 -81.20056290274216,28.59732231169048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot B12 (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot B12 (D Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id341</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.19661098861205,28.59721129613797,0 -81.19654279108092,28.59711073908091,0 -81.19615677578307,28.59718853027604,0 -81.19616349948822,28.59730950535301,0 -81.19648055364117,28.59730300850232,0 -81.19647547398249,28.59733597823056,0 -81.19654802681461,28.5973335227988,0 -81.19659760095303,28.59733084263777,0 -81.19661098861205,28.59721129613797,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot VPI (B, C Permits)</name>
+			<description>Parking Lot VPI (B, C Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id330</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20364939269632,28.59661598546066,0 -81.20346929738248,28.59654643075499,0 -81.20330748064565,28.59675962685246,0 -81.20348450871464,28.59685598992597,0 -81.20364939269632,28.59661598546066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Alpha Delta Pi</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Alpha Delta Pi - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id40</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-41</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.205595,28.604717,0 -81.205519,28.604778,0 -81.205585,28.604831,0 -81.205675,28.604885,0 -81.20559299999999,28.60496,0 -81.205505,28.604834,0 -81.205456,28.604831,0 -81.205307,28.604954,0 -81.205208,28.60486,0 -81.205028,28.604703,0 -81.20494600000001,28.604604,0 -81.205217,28.604378,0 -81.205595,28.604717,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Alpha Tau Omega</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Alpha Tau Omega - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id110</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-33</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.205412,28.606712,0 -81.20533,28.606698,0 -81.20527,28.606578,0 -81.205122,28.606651,0 -81.20506899999999,28.606625,0 -81.204877,28.606742,0 -81.20491,28.606789,0 -81.204728,28.606897,0 -81.204705,28.606865,0 -81.20468200000001,28.606874,0 -81.204622,28.606813,0 -81.204639,28.606789,0 -81.20461899999999,28.606766,0 -81.204847,28.606619,0 -81.20497899999999,28.606552,0 -81.205105,28.606476,0 -81.20525000000001,28.606406,0 -81.205333,28.606359,0 -81.20543600000001,28.606508,0 -81.205476,28.606583,0 -81.205454,28.606616,0 -81.205412,28.606712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Alpha Xi Delta</name>
+			<open>1</open>
+			<description>Parking (Greek Row)Parking (Greek Row) Alpha Xi Delta - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id5</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-40</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20611,28.604237,0 -81.206047,28.60424,0 -81.205978,28.604231,0 -81.20568299999999,28.604191,0 -81.205517,28.604165,0 -81.205534,28.60403,0 -81.20556000000001,28.604004,0 -81.206073,28.604082,0 -81.20607699999999,28.604126,0 -81.206136,28.604129,0 -81.20611,28.604237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Chi Omega</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Chi Omega - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20715531465508,28.60338409328392,0 -81.20696048183478,28.60338135845976,0 -81.20695481243047,28.60406337210448,0 -81.20715332224778,28.604071055235,0 -81.20715531465508,28.60338409328392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Delta Delta Delta</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Delta Delta Delta - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id52</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-37</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20590799999999,28.605914,0 -81.205832,28.605829,0 -81.205792,28.605783,0 -81.205686,28.605678,0 -81.205583,28.605546,0 -81.205546,28.60549,0 -81.205541,28.605411,0 -81.20559299999999,28.605398,0 -81.205837,28.605198,0 -81.20590300000001,28.605161,0 -81.205969,28.605069,0 -81.205996,28.605043,0 -81.206238,28.605209,0 -81.20642700000001,28.60537,0 -81.206563,28.605463,0 -81.206543,28.605492,0 -81.206553,28.605545,0 -81.206034,28.60587,0 -81.20598099999999,28.605885,0 -81.20595400000001,28.605882,0 -81.20590799999999,28.605914,0 -81.206444,28.605542,0 -81.206417,28.605525,0 -81.206377,28.605551,0 -81.20614500000001,28.605382,0 -81.206155,28.605338,0 -81.206052,28.605221,0 -81.205996,28.605192,0 -81.205827,28.605277,0 -81.20570499999999,28.605371,0 -81.20563199999999,28.605459,0 -81.205758,28.605575,0 -81.205811,28.605628,0 -81.205838,28.60561,0 -81.20601000000001,28.605759,0 -81.205984,28.605791,0 -81.206,28.605806,0 -81.206034,28.6058,0 -81.20611599999999,28.605747,0 -81.206298,28.605633,0 -81.206384,28.605583,0 -81.206444,28.605542,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Kappa Alpha Theta</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Kappa Alpha Theta - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id2</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-43</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20589200000001,28.606595,0 -81.205647,28.606475,0 -81.20569399999999,28.606481,0 -81.20577,28.606466,0 -81.205883,28.606469,0 -81.205975,28.606361,0 -81.206147,28.606284,0 -81.206422,28.60617,0 -81.20652699999999,28.606144,0 -81.206587,28.606217,0 -81.206531,28.60629,0 -81.205933,28.606632,0 -81.20589200000001,28.606595,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Kappa Delta</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Kappa Delta - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-42</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20527300000001,28.605237,0 -81.205195,28.605289,0 -81.205152,28.605266,0 -81.205106,28.605267,0 -81.205063,28.605217,0 -81.20518199999999,28.605196,0 -81.205185,28.605153,0 -81.205172,28.60508,0 -81.205089,28.60499799999999,0 -81.20499599999999,28.604954,0 -81.204916,28.604855,0 -81.20484999999999,28.604797,0 -81.20482699999999,28.604721,0 -81.20487300000001,28.604677,0 -81.20492900000001,28.604694,0 -81.205009,28.604796,0 -81.20517100000001,28.60491,0 -81.20530100000001,28.605047,0 -81.205264,28.6051,0 -81.205248,28.605167,0 -81.20527300000001,28.605237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Kappa Delta</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Kappa Delta - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id32</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-35</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20483299999999,28.60555,0 -81.20482800000001,28.605492,0 -81.20478199999999,28.605474,0 -81.20469900000001,28.605524,0 -81.204649,28.605524,0 -81.20455,28.605431,0 -81.204457,28.605311,0 -81.204397,28.605189,0 -81.204364,28.605107,0 -81.20439399999999,28.605066,0 -81.20444999999999,28.604996,0 -81.204536,28.604961,0 -81.204599,28.605031,0 -81.204486,28.605095,0 -81.20449600000001,28.605162,0 -81.204583,28.605282,0 -81.204639,28.605349,0 -81.204706,28.605434,0 -81.204758,28.605439,0 -81.20485100000001,28.605366,0 -81.204911,28.605314,0 -81.205063,28.605217,0 -81.205106,28.605267,0 -81.204967,28.605349,0 -81.20490700000001,28.605404,0 -81.204881,28.605436,0 -81.20488400000001,28.605468,0 -81.204911,28.605503,0 -81.20483299999999,28.60555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Kappa Kappa Gamma</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Kappa Kappa Gamma - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id60</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="parking.kml#parkinglot">
+					<SimpleData name="number">parkinglot-39</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.206464,28.604368,0 -81.20714086664479,28.60454789136724,0 -81.20714631849319,28.60443870769909,0 -81.20715900160469,28.60407381002313,0 -81.20696468392954,28.60407730558529,0 -81.2069312744632,28.60437470964446,0 -81.20679628889,28.60433894969752,0 -81.20653977974855,28.60429688524615,0 -81.20651863427044,28.60428363873142,0 -81.20649899999999,28.604258,0 -81.20648905000901,28.60430309247623,0 -81.206464,28.604368,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Kappa Sigma</name>
+			<open>1</open>
+			<description>Parking Lot (Greek Row) Kappa Sigma - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id16</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-32</SimpleData>
+					<SimpleData name="name">Parking Lot 32</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.204398,28.606236,0 -81.20447299999999,28.60621,0 -81.20450700000001,28.606251,0 -81.20456,28.606217,0 -81.204795,28.606529,0 -81.204761,28.606561,0 -81.20475500000001,28.606618,0 -81.204455,28.606804,0 -81.204374,28.606708,0 -81.204516,28.60662900000001,0 -81.204493,28.606576,0 -81.204536,28.606532,0 -81.204426,28.606395,0 -81.20441599999999,28.606395,0 -81.204368,28.606326,0 -81.204363,28.606298,0 -81.204419,28.606264,0 -81.204398,28.606236,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Pi Beta Phi</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Pi Beta Phi - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id4</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-36</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20522099999999,28.60569,0 -81.20531099999999,28.60564,0 -81.205394,28.60563399999999,0 -81.20547999999999,28.605625,0 -81.20554300000001,28.605581,0 -81.20558,28.605596,0 -81.20563,28.605678,0 -81.205613,28.605724,0 -81.205623,28.605786,0 -81.205673,28.605806,0 -81.205686,28.605888,0 -81.205746,28.60599,0 -81.205733,28.606054,0 -81.205601,28.606125,0 -81.20529999999999,28.606306,0 -81.205247,28.606254,0 -81.20529999999999,28.606213,0 -81.205336,28.606137,0 -81.20548100000001,28.606072,0 -81.205561,28.606034,0 -81.20559,28.605944,0 -81.205607,28.605859,0 -81.20551,28.60573,0 -81.205428,28.605695,0 -81.205269,28.605707,0 -81.20522099999999,28.60569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Sigma Chi</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Sigma Chi - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="/Users/rseilham/Downloads/parking.kml#parkinglot">
+					<SimpleData name="number">parkinglot-44</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.206548,28.607408,0 -81.206458,28.6074,0 -81.20646000000001,28.607303,0 -81.20644,28.607128,0 -81.206394,28.607122,0 -81.206406,28.606807,0 -81.20622400000001,28.60681,0 -81.205996,28.606822,0 -81.205923,28.606819,0 -81.20587999999999,28.60679,0 -81.205831,28.606811,0 -81.20586400000001,28.606761,0 -81.20592000000001,28.606729,0 -81.20603199999999,28.606734,0 -81.20623399999999,28.606734,0 -81.20640299999999,28.606716,0 -81.20653799999999,28.606716,0 -81.206598,28.60681,0 -81.206619,28.607227,0 -81.206549,28.607239,0 -81.206548,28.607408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Theta Chi</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Theta Chi - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id22</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-34</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.204427,28.605829,0 -81.204325,28.605683,0 -81.204256,28.605542,0 -81.204183,28.605446,0 -81.204083,28.605397,0 -81.203957,28.605452,0 -81.203862,28.605528,0 -81.203743,28.605607,0 -81.203587,28.605698,0 -81.203485,28.605742,0 -81.203405,28.605658,0 -81.203547,28.605573,0 -81.203749,28.605456,0 -81.203937,28.60534699999999,0 -81.204106,28.605265,0 -81.20422499999999,28.605227,0 -81.204335,28.605294,0 -81.20438799999999,28.605387,0 -81.204437,28.605457,0 -81.204391,28.605516,0 -81.204352,28.605586,0 -81.204382,28.60565,0 -81.20445100000001,28.605732,0 -81.204499,28.605786,0 -81.204427,28.605829,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Greek Row) Zeta Tau Alpha</name>
+			<open>1</open>
+			<description>Parking (Greek Row) Zeta Tau Alpha - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id7</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#parkinglot">
+					<SimpleData name="number">parkinglot-38</SimpleData>
+					<SimpleData name="name">None</SimpleData>
+					<SimpleData name="permit">Greek Row</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20657199999999,28.605231,0 -81.206515,28.60516,0 -81.206549,28.605121,0 -81.206591,28.605019,0 -81.206681,28.604864,0 -81.20670699999999,28.604858,0 -81.206737,28.60476999999999,0 -81.206717,28.604715,0 -81.20660100000001,28.604671,0 -81.206554,28.604639,0 -81.20647599999999,28.604591,0 -81.206481,28.604516,0 -81.206521,28.604484,0 -81.20684199999999,28.604586,0 -81.206952,28.604665,0 -81.20695499999999,28.604688,0 -81.206681,28.60527,0 -81.20657199999999,28.605231,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot H4-A (B, C, D, Visitor Permits)</name>
+			<description>Parking Lot H4 (B, C D Permits) - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<styleUrl>#stylemap_id610</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.20716733259738,28.60271357688413,0 -81.2064655570063,28.60271612619091,0 -81.20614551588271,28.60271321898527,0 -81.20616382605915,28.60312066762739,0 -81.20636688497434,28.60312690517771,0 -81.20676559045056,28.60314436284187,0 -81.20714777072052,28.60314710634184,0 -81.20716733259738,28.60271357688413,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Schema name="parkinglot" id="parkinglot">
+	<SimpleField name="number" type="string"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+	<SimpleField name="permit" type="string"></SimpleField>
+</Schema>
+	</Folder>
+	<Folder>
+		<name>Disabled Parking</name>
+		<ExtendedData>
+			<Data name="searchable">
+				<value>0</value>
+			</Data>
+		</ExtendedData>
+		<Placemark>
+			<name>Disabled Parking - Andromeda Circle</name>
+			<description>Andromeda Circle - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Andromeda Circle </SimpleData>
+					<SimpleData name="Description">Andromeda Circle </SimpleData>
+					<SimpleData name="Latitude">28.59774617</SimpleData>
+					<SimpleData name="Longitude">-81.20051029</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20051029,28.59774617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Bookstore </name>
+			<description>Bookstore - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Bookstore </SimpleData>
+					<SimpleData name="Description">Bookstore </SimpleData>
+					<SimpleData name="Latitude">28.60164242</SimpleData>
+					<SimpleData name="Longitude">-81.20150807</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20150807,28.60164242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Breezeway Parking </name>
+			<description>Breezeway Parking  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Breezeway Parking </SimpleData>
+					<SimpleData name="Description">Breezeway Parking </SimpleData>
+					<SimpleData name="Latitude">28.60093195</SimpleData>
+					<SimpleData name="Longitude">-81.20072352</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20072352,28.60093195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Classroom 1 </name>
+			<description>Classroom 1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Classroom 1 </SimpleData>
+					<SimpleData name="Description">Classroom 1 </SimpleData>
+					<SimpleData name="Latitude">28.60346392</SimpleData>
+					<SimpleData name="Longitude">-81.20107892</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20107892,28.60346392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Fairwinds Alumni Center </name>
+			<description>Fairwinds Alumni Center  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Fairwinds Alumni Center </SimpleData>
+					<SimpleData name="Description">Fairwinds Alumni Center </SimpleData>
+					<SimpleData name="Latitude">28.60566098</SimpleData>
+					<SimpleData name="Longitude">-81.19892913</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19892913,28.60566098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage A </name>
+			<description>Garage A  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage A </SimpleData>
+					<SimpleData name="Description">Garage A </SimpleData>
+					<SimpleData name="Latitude">28.59968529</SimpleData>
+					<SimpleData name="Longitude">-81.2051318</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2051318,28.59968529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage B </name>
+			<description>Garage B - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage B </SimpleData>
+					<SimpleData name="Description">Garage B </SimpleData>
+					<SimpleData name="Latitude">28.597148</SimpleData>
+					<SimpleData name="Longitude">-81.20020586</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20020586,28.597148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage C </name>
+			<description>Garage C  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage C </SimpleData>
+					<SimpleData name="Description">Garage C </SimpleData>
+					<SimpleData name="Latitude">28.60191441</SimpleData>
+					<SimpleData name="Longitude">-81.19621473</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19621472999999,28.60191441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage D </name>
+			<description>Garage D  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage D </SimpleData>
+					<SimpleData name="Description">Garage D </SimpleData>
+					<SimpleData name="Latitude">28.60487211</SimpleData>
+					<SimpleData name="Longitude">-81.19748073</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19748073,28.60487211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage E </name>
+			<description>Garage E  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage E </SimpleData>
+					<SimpleData name="Description">Garage E </SimpleData>
+					<SimpleData name="Latitude">28.60630384</SimpleData>
+					<SimpleData name="Longitude">-81.19550663</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19550663,28.60630384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage F </name>
+			<description>Garage F  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage F </SimpleData>
+					<SimpleData name="Description">Garage F </SimpleData>
+					<SimpleData name="Latitude">28.60828184</SimpleData>
+					<SimpleData name="Longitude">-81.19623619</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19623618999999,28.60828184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage G </name>
+			<description>Garage G  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage G </SimpleData>
+					<SimpleData name="Description">Garage G </SimpleData>
+					<SimpleData name="Latitude">28.6085079</SimpleData>
+					<SimpleData name="Longitude">-81.19763094</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19763094,28.6085079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage H </name>
+			<description>Garage H  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage H </SimpleData>
+					<SimpleData name="Description">Garage H </SimpleData>
+					<SimpleData name="Latitude">28.60458953</SimpleData>
+					<SimpleData name="Longitude">-81.2008925</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20089249999999,28.60458953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Garage I </name>
+			<description>Garage I  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Garage I </SimpleData>
+					<SimpleData name="Description">Garage I </SimpleData>
+					<SimpleData name="Latitude">28.60093477</SimpleData>
+					<SimpleData name="Longitude">-81.20424526</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20424525999999,28.60093477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - H1 </name>
+			<description>H1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - H1 </SimpleData>
+					<SimpleData name="Description">H1 </SimpleData>
+					<SimpleData name="Latitude">28.60163889</SimpleData>
+					<SimpleData name="Longitude">-81.20290014</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20290014,28.60163889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - H3 </name>
+			<description>H3  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - H3 </SimpleData>
+					<SimpleData name="Description">H3 </SimpleData>
+					<SimpleData name="Latitude">28.6020298</SimpleData>
+					<SimpleData name="Longitude">-81.20508211</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20508211000001,28.6020298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Libra Garage </name>
+			<description>Libra Garage  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Libra Garage </SimpleData>
+					<SimpleData name="Description">Libra Garage </SimpleData>
+					<SimpleData name="Latitude">28.5956569</SimpleData>
+					<SimpleData name="Longitude">-81.196872</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.196872,28.5956569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Library Service </name>
+			<description>Library Service  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Library Service </SimpleData>
+					<SimpleData name="Description">Library Service </SimpleData>
+					<SimpleData name="Latitude">28.60032249</SimpleData>
+					<SimpleData name="Longitude">-81.20102661</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20102661,28.60032249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B1 </name>
+			<description>Lot B1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B1 </SimpleData>
+					<SimpleData name="Description">Lot B1 </SimpleData>
+					<SimpleData name="Latitude">28.59926984</SimpleData>
+					<SimpleData name="Longitude">-81.20328235</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20328234999999,28.59926984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B10 </name>
+			<description>Lot B10  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B10 </SimpleData>
+					<SimpleData name="Description">Lot B10 </SimpleData>
+					<SimpleData name="Latitude">28.59656161</SimpleData>
+					<SimpleData name="Longitude">-81.19791257</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19791257,28.59656161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B11 </name>
+			<description>Lot B11  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B11 </SimpleData>
+					<SimpleData name="Description">Lot B11 </SimpleData>
+					<SimpleData name="Latitude">28.59738115</SimpleData>
+					<SimpleData name="Longitude">-81.19766983</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19766983,28.59738115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B12 </name>
+			<description>Lot B12  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B12 </SimpleData>
+					<SimpleData name="Description">Lot B12 </SimpleData>
+					<SimpleData name="Latitude">28.59719039</SimpleData>
+					<SimpleData name="Longitude">-81.1962952</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19629519999999,28.59719039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B15 </name>
+			<description>Lot B15  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B15 </SimpleData>
+					<SimpleData name="Description">Lot B15 </SimpleData>
+					<SimpleData name="Latitude">28.59474706</SimpleData>
+					<SimpleData name="Longitude">-81.19673105</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19673105,28.59474706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B16 </name>
+			<description>Lot B16  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B16 </SimpleData>
+					<SimpleData name="Description">Lot B16 </SimpleData>
+					<SimpleData name="Latitude">28.59202067</SimpleData>
+					<SimpleData name="Longitude">-81.19773567</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19773567,28.59202067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B17 </name>
+			<description>Lot B17  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B17 </SimpleData>
+					<SimpleData name="Description">Lot B17 </SimpleData>
+					<SimpleData name="Latitude">28.59143424</SimpleData>
+					<SimpleData name="Longitude">-81.19595736</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19595735999999,28.59143424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B17 </name>
+			<description>Lot B17  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B17 </SimpleData>
+					<SimpleData name="Description">Lot B17 </SimpleData>
+					<SimpleData name="Latitude">28.59117674</SimpleData>
+					<SimpleData name="Longitude">-81.19586068</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19586068,28.59117674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B2 </name>
+			<description>Lot B2  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B2 </SimpleData>
+					<SimpleData name="Description">Lot B2 </SimpleData>
+					<SimpleData name="Latitude">28.59868581</SimpleData>
+					<SimpleData name="Longitude">-81.20186078</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20186078,28.59868581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B3 </name>
+			<description>Lot B3  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B3 </SimpleData>
+					<SimpleData name="Description">Lot B3 </SimpleData>
+					<SimpleData name="Latitude">28.59822659</SimpleData>
+					<SimpleData name="Longitude">-81.20357203</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20357203,28.59822659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B4 </name>
+			<description>Lot B4  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B4 </SimpleData>
+					<SimpleData name="Description">Lot B4 </SimpleData>
+					<SimpleData name="Latitude">28.59767199</SimpleData>
+					<SimpleData name="Longitude">-81.20248573</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20248573000001,28.59767199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B6 </name>
+			<description>Lot B6  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B6 </SimpleData>
+					<SimpleData name="Description">Lot B6 </SimpleData>
+					<SimpleData name="Latitude">28.59768259</SimpleData>
+					<SimpleData name="Longitude">-81.20250183</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20250183,28.59768259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B6 a </name>
+			<description>Lot B6 a  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B6 a </SimpleData>
+					<SimpleData name="Description">Lot B6 a </SimpleData>
+					<SimpleData name="Latitude">28.59665816</SimpleData>
+					<SimpleData name="Longitude">-81.20358008</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20358007999999,28.59665816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B7 </name>
+			<description>Lot B7  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B7 </SimpleData>
+					<SimpleData name="Description">Lot B7 </SimpleData>
+					<SimpleData name="Latitude">28.5956455</SimpleData>
+					<SimpleData name="Longitude">-81.20189565</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20189565,28.5956455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B7 a </name>
+			<description>Lot B7 a  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B7 a </SimpleData>
+					<SimpleData name="Description">Lot B7 a </SimpleData>
+					<SimpleData name="Latitude">28.59551009</SimpleData>
+					<SimpleData name="Longitude">-81.20248976</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20248976000001,28.59551009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B8 </name>
+			<description>Lot B8  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B8 </SimpleData>
+					<SimpleData name="Description">Lot B8 </SimpleData>
+					<SimpleData name="Latitude">28.59436318</SimpleData>
+					<SimpleData name="Longitude">-81.2010588</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2010588,28.59436318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot B9 </name>
+			<description>Lot B9  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot B9 </SimpleData>
+					<SimpleData name="Description">Lot B9 </SimpleData>
+					<SimpleData name="Latitude">28.59724927</SimpleData>
+					<SimpleData name="Longitude">-81.19939851</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19939850999999,28.59724927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot C </name>
+			<description>Lot C  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot C </SimpleData>
+					<SimpleData name="Description">Lot C </SimpleData>
+					<SimpleData name="Latitude">28.59899077</SimpleData>
+					<SimpleData name="Longitude">-81.19752365</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19752364999999,28.59899077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot C1 </name>
+			<description>Lot C1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot C1 </SimpleData>
+					<SimpleData name="Description">Lot C1 </SimpleData>
+					<SimpleData name="Latitude">28.60210516</SimpleData>
+					<SimpleData name="Longitude">-81.19750487</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19750487,28.60210516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot C3 </name>
+			<description>Lot C3  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot C3 </SimpleData>
+					<SimpleData name="Description">Lot C3 </SimpleData>
+					<SimpleData name="Latitude">28.59959679</SimpleData>
+					<SimpleData name="Longitude">-81.19784296</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19784296,28.59959679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot C3 extension </name>
+			<description>Lot C3 extension  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot C3 extension </SimpleData>
+					<SimpleData name="Description">Lot C3 extension </SimpleData>
+					<SimpleData name="Latitude">28.59931811</SimpleData>
+					<SimpleData name="Longitude">-81.19794073</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19794073,28.59931811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot D1 </name>
+			<description>Lot D1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot D1 </SimpleData>
+					<SimpleData name="Description">Lot D1 </SimpleData>
+					<SimpleData name="Latitude">28.60370882</SimpleData>
+					<SimpleData name="Longitude">-81.19797962</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19797962,28.60370882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot E1 </name>
+			<description>Lot E1  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot E1 </SimpleData>
+					<SimpleData name="Description">Lot E1 </SimpleData>
+					<SimpleData name="Latitude">28.6060401</SimpleData>
+					<SimpleData name="Longitude">-81.19410785</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19410784999999,28.6060401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot E4 </name>
+			<description>Lot E4  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot E4 </SimpleData>
+					<SimpleData name="Description">Lot E4 </SimpleData>
+					<SimpleData name="Latitude">28.60428811</SimpleData>
+					<SimpleData name="Longitude">-81.19020122</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19020122000001,28.60428811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H10 </name>
+			<description>Lot H10  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H10 </SimpleData>
+					<SimpleData name="Description">Lot H10 </SimpleData>
+					<SimpleData name="Latitude">28.60671592</SimpleData>
+					<SimpleData name="Longitude">-81.20268422</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20268421999999,28.60671592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H2 </name>
+			<description>Lot H2  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H2 </SimpleData>
+					<SimpleData name="Description">Lot H2 </SimpleData>
+					<SimpleData name="Latitude">28.60248429</SimpleData>
+					<SimpleData name="Longitude">-81.20277005</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20277005,28.60248429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H3 </name>
+			<description>Lot H3  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H3 </SimpleData>
+					<SimpleData name="Description">Lot H3 </SimpleData>
+					<SimpleData name="Latitude">28.60181277</SimpleData>
+					<SimpleData name="Longitude">-81.20487571</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20487571,28.60181277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H4 </name>
+			<description>Lot H4  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H4 </SimpleData>
+					<SimpleData name="Description">Lot H4 </SimpleData>
+					<SimpleData name="Latitude">28.60317389</SimpleData>
+					<SimpleData name="Longitude">-81.20490521</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20490521000001,28.60317389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H5 </name>
+			<description>Lot H5  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H5 </SimpleData>
+					<SimpleData name="Description">Lot H5 </SimpleData>
+					<SimpleData name="Latitude">28.60371118</SimpleData>
+					<SimpleData name="Longitude">-81.20373564</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20373564,28.60371118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H6 </name>
+			<description>Lot H6  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H6 </SimpleData>
+					<SimpleData name="Description">Lot H6 </SimpleData>
+					<SimpleData name="Latitude">28.60461779</SimpleData>
+					<SimpleData name="Longitude">-81.20336818</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20336818,28.60461779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H7 </name>
+			<description>Lot H7  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H7 </SimpleData>
+					<SimpleData name="Description">Lot H7 </SimpleData>
+					<SimpleData name="Latitude">28.60502833</SimpleData>
+					<SimpleData name="Longitude">-81.2027058</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2027058,28.60502833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H8 </name>
+			<description>Lot H8  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H8 </SimpleData>
+					<SimpleData name="Description">Lot H8 </SimpleData>
+					<SimpleData name="Latitude">28.60366408</SimpleData>
+					<SimpleData name="Longitude">-81.20524305</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20524305000001,28.60366408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Lot H9 </name>
+			<description>Lot H9  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Lot H9 </SimpleData>
+					<SimpleData name="Description">Lot H9 </SimpleData>
+					<SimpleData name="Latitude">28.60427634</SimpleData>
+					<SimpleData name="Longitude">-81.20447325</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20447325000001,28.60427634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - North End </name>
+			<description>North End  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - North End </SimpleData>
+					<SimpleData name="Description">North End </SimpleData>
+					<SimpleData name="Latitude">28.60850083</SimpleData>
+					<SimpleData name="Longitude">-81.19723129</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19723129,28.60850083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Orlando Tech Center </name>
+			<description>Orlando Tech Center  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Orlando Tech Center </SimpleData>
+					<SimpleData name="Description">Orlando Tech Center </SimpleData>
+					<SimpleData name="Latitude">28.58849185</SimpleData>
+					<SimpleData name="Longitude">-81.19579496</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19579496,28.58849185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Police Station </name>
+			<description>Police Station  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Police Station </SimpleData>
+					<SimpleData name="Description">Police Station </SimpleData>
+					<SimpleData name="Latitude">28.59180635</SimpleData>
+					<SimpleData name="Longitude">-81.19605929</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19605928999999,28.59180635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Psychology Building </name>
+			<description>Psychology Building  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Psychology Building </SimpleData>
+					<SimpleData name="Description">Psychology Building </SimpleData>
+					<SimpleData name="Latitude">28.60531835</SimpleData>
+					<SimpleData name="Longitude">-81.19953396</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19953396,28.60531835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - T200 - Behind RWC </name>
+			<description>T200 - Behind RWC  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - T200 - Behind RWC </SimpleData>
+					<SimpleData name="Description">T200 - Behind RWC </SimpleData>
+					<SimpleData name="Latitude">28.5948868</SimpleData>
+					<SimpleData name="Longitude">-81.19990155</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19990155000001,28.5948868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Teaching Academy </name>
+			<description>Teaching Academy  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Teaching Academy </SimpleData>
+					<SimpleData name="Description">Teaching Academy </SimpleData>
+					<SimpleData name="Latitude">28.59949356</SimpleData>
+					<SimpleData name="Longitude">-81.20459395</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20459395,28.59949356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Teaching Academy </name>
+			<description>Teaching Academy  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Teaching Academy </SimpleData>
+					<SimpleData name="Description">Teaching Academy </SimpleData>
+					<SimpleData name="Latitude">28.5993142</SimpleData>
+					<SimpleData name="Longitude">-81.204409</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.204409,28.5993142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disabled Parking - Theater </name>
+			<description>Theater  - NOTE: Parking assignments can change without notice, always follow the designated parking signs as the official source.</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160524052837">
+					<SimpleData name="Name">Disabled Parking - Theater </SimpleData>
+					<SimpleData name="Description">Theater </SimpleData>
+					<SimpleData name="Latitude">28.60078288</SimpleData>
+					<SimpleData name="Longitude">-81.19995239</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19995239000001,28.60078288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Schema name="csv_20160524052837" id="csv_20160524052837">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+	</Folder>
+</Document>
+</kml>

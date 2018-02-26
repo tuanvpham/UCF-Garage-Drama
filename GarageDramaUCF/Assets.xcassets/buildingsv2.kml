@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>buildings.kml</name>
+	<Folder>
+		<name>maps_data_buildings</name>
+		<open>1</open>
+		<Placemark>
+			<name>Alpha Delta Pi - Sorority (ADP)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b406.jpg" alt="Alpha Delta Pi - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Alpha Delta Pi - Sorority (ADP)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b406.jpg" alt="Alpha Delta Pi - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.6045455</SimpleData>
+					<SimpleData name="Longitude">-81.20578217</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20578217000001,28.6045455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Epsilon Phi - Sorority (G409)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/TC_b409.jpg" alt="Alpha Epsilon Phi - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Alpha Epsilon Phi - Sorority (G409)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/TC_b409.jpg" alt="Alpha Epsilon Phi - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60570454</SimpleData>
+					<SimpleData name="Longitude">-81.20396363</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20396363,28.60570454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Tau Omega - Fraternity (ATO)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b410.jpg" alt="Alpha Tau Omega - Fraternity"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Alpha Tau Omega - Fraternity (ATO)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b410.jpg" alt="Alpha Tau Omega - Fraternity"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60678539</SimpleData>
+					<SimpleData name="Longitude">-81.20525109</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20525109,28.60678539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alpha Xi Delta - Sorority (AZD)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b404.jpg" alt="Alpha Xi Delta - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Alpha Xi Delta - Sorority (AZD)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b404.jpg" alt="Alpha Xi Delta - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.603856</SimpleData>
+					<SimpleData name="Longitude">-81.20588946</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20588945999999,28.603856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMPAC Research Facility (ARF)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/ampac_b152.jpg" alt="Ampac"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">AMPAC Research Facility (ARF)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/ampac_b152.jpg" alt="Ampac"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59136986</SimpleData>
+					<SimpleData name="Longitude">-81.19172739</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19172739,28.59136986,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Ara Dr. Research Facility (ADRF)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/WAF_b117.jpg" alt="Ara Dr. Research Facility"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Ara Dr. Research Facility (ADRF)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/WAF_b117.jpg" alt="Ara Dr. Research Facility"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59134631</SimpleData>
+					<SimpleData name="Longitude">-81.19120168</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19120168000001,28.59134631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arboretum (ARB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EL_TR25.jpg" alt="Arboretum"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Arboretum (ARB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EL_TR25.jpg" alt="Arboretum"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60059684</SimpleData>
+					<SimpleData name="Longitude">-81.19684773</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19684773,28.60059684,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		
+		<Placemark>
+			<name>Art Gallery</name>
+			<description><![CDATA[<p>VAB S1, 117</p><p><img src="http://map.ucf.edu/media/uploads/images/artgallery_b51b.jpg" alt="Art Gallery"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Art Gallery</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p>VAB S1, 117</p><p><img src="http://map.ucf.edu/media/uploads/images/artgallery_b51b.jpg" alt="Art Gallery"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60278218</SimpleData>
+					<SimpleData name="Longitude">-81.20365786</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20365786000001,28.60278218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Band Storage (BAND)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/LS30_630.jpg" alt="Band Storage"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Band Storage (BAND)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/LS30_630.jpg" alt="Band Storage"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5924014</SimpleData>
+					<SimpleData name="Longitude">-81.20135116</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20135116,28.5924014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barbara Ying Center (BYC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b71.jpg" alt="Barbara Ying Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Barbara Ying Center (BYC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b71.jpg" alt="Barbara Ying Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59542531</SimpleData>
+					<SimpleData name="Longitude">-81.20264935</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20264935,28.59542531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bennett Research II</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b3251.jpg" alt="Bennett Research II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Bennett Research II</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b3251.jpg" alt="Bennett Research II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5891513</SimpleData>
+					<SimpleData name="Longitude">-81.19817542</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19817542,28.5891513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barbara Ying Center - Center for Multilingual Multicultural Studies (CMMS)</name>
+			<description><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/b81.jpg" alt="Barbara Ying Center - Center for Multilingual Multicultural Studies"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Barbara Ying Center - Center for Multilingual Multicultural Studies (CMMS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/b81.jpg" alt="Barbara Ying Center - Center for Multilingual Multicultural Studies"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59501118</SimpleData>
+					<SimpleData name="Longitude">-81.20257918</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20257918,28.59501118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biological Sciences (BIO)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b20.jpg" alt="Biological Sciences"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Biological Sciences (BIO)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b20.jpg" alt="Biological Sciences"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59999869</SimpleData>
+					<SimpleData name="Longitude">-81.19857776</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19857776000001,28.59999869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biological Transgenic Greenhouse (BTG)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/GrnHse_b124.jpg" alt="Biological Transgenic Greenhouse (BTG)"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Biological Transgenic Greenhouse (BTG)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/GrnHse_b124.jpg" alt="Biological Transgenic Greenhouse (BTG)"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59130862</SimpleData>
+					<SimpleData name="Longitude">-81.19214582</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19214581999999,28.59130862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biology Field Research Center (BFRC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b92.jpg" alt="Biology Field Research Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Biology Field Research Center (BFRC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b92.jpg" alt="Biology Field Research Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59144051</SimpleData>
+					<SimpleData name="Longitude">-81.19112658</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19112658,28.59144051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biomolecular Research Annex (BMRA)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8114.jpg" alt="Biomolecular Research Annex"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Biomolecular Research Annex (BMRA)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8114.jpg" alt="Biomolecular Research Annex"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58882629</SimpleData>
+					<SimpleData name="Longitude">-81.19213509</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19213508999999,28.58882629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Education Research Center (ERC)</name>
+			<description><![CDATA[<p>Formerly BPW Scholarship House</p><p><img src="http://map.ucf.edu/media/uploads/images/b402.jpg" alt="BPW Scholarship House"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">BPW Scholarship House (ERC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p>Formerly BPW Scholarship House</p><p><img src="http://map.ucf.edu/media/uploads/images/b402.jpg" alt="BPW Scholarship House"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59521807</SimpleData>
+					<SimpleData name="Longitude">-81.2036364</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20363639999999,28.59521807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spectrum Stadium (SS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/BHNS_135.jpg" alt="Bright House Networks Stadium"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Spectrum Stadium (SS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/BHNS_135.jpg" alt="Bright House Networks Stadium"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60856559</SimpleData>
+					<SimpleData name="Longitude">-81.19346547</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19346547000001,28.60856559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burnett Honors College (BHC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b95.jpg" alt="Burnett Honors College"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Burnett Honors College (BHC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b95.jpg" alt="Burnett Honors College"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60226882</SimpleData>
+					<SimpleData name="Longitude">-81.20245623</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20245623,28.60226882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burnett House (PRS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b100.jpg" alt="Burnett House"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Burnett House (PRS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b100.jpg" alt="Burnett House"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59611298</SimpleData>
+					<SimpleData name="Longitude">-81.20505261</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20505261,28.59611298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Business Administration (BA1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b45.jpg" alt="Business Administration"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Business Administration (BA1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b45.jpg" alt="Business Administration"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60101131</SimpleData>
+					<SimpleData name="Longitude">-81.19921612</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19921612,28.60101131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Business Administration II (BA2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b94.jpg" alt="Business Administration II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Business Administration II (BA2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b94.jpg" alt="Business Administration II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60069575</SimpleData>
+					<SimpleData name="Longitude">-81.1986314</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1986314,28.60069575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Career Services and Experiential Learning (CSEL)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Career Services and Experiential Learning"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Career Services and Experiential Learning (CSEL)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Career Services and Experiential Learning"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.605286</SimpleData>
+					<SimpleData name="Longitude">-81.199026</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.199026,28.605286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CFE Arena (ARNA)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/ARNA_50.jpg" alt="CFE Arena"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">CFE Arena (ARNA)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/ARNA_50.jpg" alt="CFE Arena"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60676114</SimpleData>
+					<SimpleData name="Longitude">-81.19768592</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19768592,28.60676114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Challenge Course</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu4.jpg" alt="Challenge Course"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Challenge Course</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu4.jpg" alt="Challenge Course"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59364489</SimpleData>
+					<SimpleData name="Longitude">-81.20467173</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20467173,28.59364489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chemistry (CHEM)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b5.jpg" alt="Chemistry"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Chemistry (CHEM)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b5.jpg" alt="Chemistry"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5998362</SimpleData>
+					<SimpleData name="Longitude">-81.19985985</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19985985,28.5998362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chi Omega - Sorority (G416)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Chi Omega - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Chi Omega - Sorority (G416)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Chi Omega - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.603745</SimpleData>
+					<SimpleData name="Longitude">-81.206778</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.206778,28.603745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Classroom Building I (CB1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b79.jpg" alt="Classroom Building I"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Classroom Building I (CB1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b79.jpg" alt="Classroom Building I"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60349053</SimpleData>
+					<SimpleData name="Longitude">-81.20042043</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20042042999999,28.60349053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Classroom Building II (CB2)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Classroom Building II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Classroom Building II (CB2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Classroom Building II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.604306</SimpleData>
+					<SimpleData name="Longitude">-81.200111</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20011100000001,28.604306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colbourn Hall (CNH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b18.jpg" alt="Colbourn Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Colbourn Hall (CNH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b18.jpg" alt="Colbourn Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60106076</SimpleData>
+					<SimpleData name="Longitude">-81.20293903</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20293903,28.60106076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>College of Arts &amp; Humanities (CAH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b87.jpg" alt="College of Arts & Humanities"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">College of Arts &amp; Humanities (CAH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b87.jpg" alt="College of Arts & Humanities"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60440232</SimpleData>
+					<SimpleData name="Longitude">-81.20266544</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20266544,28.60440232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>College of Sciences (CSB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b54.jpg" alt="College of Sciences"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">College of Sciences (CSB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b54.jpg" alt="College of Sciences"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60102308</SimpleData>
+					<SimpleData name="Longitude">-81.20031315</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20031315,28.60102308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Counseling and Psychological Services (CAPS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b27.jpg" alt="Counseling and Psychological Services (CAPS)"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Counseling and Psychological Services (CAPS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b27.jpg" alt="Counseling and Psychological Services (CAPS)"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59934166</SimpleData>
+					<SimpleData name="Longitude">-81.19881111</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19881110999999,28.59934166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Creative School for Children (CSC1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b24.jpg" alt="Creative School for Children"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Creative School for Children (CSC1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b24.jpg" alt="Creative School for Children"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59697962</SimpleData>
+					<SimpleData name="Longitude">-81.1975156</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1975156,28.59697962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Creative School for Children 1st Grade (CSC2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b540.jpg" alt="Creative School for Children 1st Grade"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Creative School for Children 1st Grade (CSC2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b540.jpg" alt="Creative School for Children 1st Grade"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59709455</SimpleData>
+					<SimpleData name="Longitude">-81.19736003</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19736003,28.59709455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Creative School for Children Module 2 (CSC3)</name>
+			<description><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/b540.jpg" alt="Creative School for Children Module 2"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Creative School for Children Module 2 (CSC3)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/b540.jpg" alt="Creative School for Children Module 2"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59725776</SimpleData>
+					<SimpleData name="Longitude">-81.19714855</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19714854999999,28.59725776000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREOL (CROL)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b53.jpg" alt="CREOL"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">CREOL (CROL)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b53.jpg" alt="CREOL"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.6011997</SimpleData>
+					<SimpleData name="Longitude">-81.19747269</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19747269,28.6011997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delta Delta Delta - Sorority (DDD)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b403.jpg" alt="Delta Delta Delta - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Delta Delta Delta - Sorority (DDD)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b403.jpg" alt="Delta Delta Delta - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60534425</SimpleData>
+					<SimpleData name="Longitude">-81.20590555</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20590555,28.60534425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Duke Energy UCF Welcome Center (UWC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b96.jpg" alt="Duke Energy UCF Welcome Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Duke Energy UCF Welcome Center (UWC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b96.jpg" alt="Duke Energy UCF Welcome Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5979593</SimpleData>
+					<SimpleData name="Longitude">-81.20267081</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20267081,28.5979593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Education Complex &amp; Gym (ED)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b21.jpg" alt="Education"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Education Complex &amp; Gym (ED)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b21.jpg" alt="Education"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60005521</SimpleData>
+					<SimpleData name="Longitude">-81.2038778</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2038778,28.60005521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emergency Operation Center (EOC)</name>
+			<description><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/EmergencyOperationsCenter.jpg" alt="Emergency Operation Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Emergency Operation Center (EOC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="https://map.ucf.edu/media/uploads/images/EmergencyOperationsCenter.jpg" alt="Emergency Operation Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.592499</SimpleData>
+					<SimpleData name="Longitude">-81.196643</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19664299999999,28.592499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emergency Services Training Building (ESTB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b350.jpg" alt="Emergency Services Training Building (ESTB)"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Emergency Services Training Building (ESTB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b350.jpg" alt="Emergency Services Training Building (ESTB)"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.61168322</SimpleData>
+					<SimpleData name="Longitude">-81.190912</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.190912,28.61168322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Engine Research Lab (ERL)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EngRschLab_b76.jpg" alt="Engine Research Lab"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Engine Research Lab (ERL)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EngRschLab_b76.jpg" alt="Engine Research Lab"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59167791</SimpleData>
+					<SimpleData name="Longitude">-81.18866968</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.18866968,28.59167791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Engineering I (ENG1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b40.jpg" alt="Engineering I"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Engineering I (ENG1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b40.jpg" alt="Engineering I"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60140693</SimpleData>
+					<SimpleData name="Longitude">-81.19850802</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19850802000001,28.60140693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Engineering II (ENG2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b91.jpg" alt="Engineering II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Engineering II (ENG2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b91.jpg" alt="Engineering II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60198153</SimpleData>
+					<SimpleData name="Longitude">-81.19868504</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19868504,28.60198153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Facilities &amp; Safety (FSC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b16.jpg" alt="Facilities & Safety"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Facilities &amp; Safety (FSC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b16.jpg" alt="Facilities & Safety"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59153001</SimpleData>
+					<SimpleData name="Longitude">-81.19622814</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19622814,28.59153001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FAIRWINDS Alumni Center (ALUM)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b126.jpg" alt="Fairwinds Alumni Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">FAIRWINDS Alumni Center (ALUM)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b126.jpg" alt="Fairwinds Alumni Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60567393</SimpleData>
+					<SimpleData name="Longitude">-81.1988728</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1988728,28.60567393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ferrell Commons</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7f.jpg" alt="Ferrell Commons"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Ferrell Commons</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7f.jpg" alt="Ferrell Commons"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59788</SimpleData>
+					<SimpleData name="Longitude">-81.200042</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.200042,28.59788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fire Station #65 (FS65)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b351.jpg" alt="Fire Station #62"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Fire Station #65 (FS65)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b351.jpg" alt="Fire Station #62"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.61153723</SimpleData>
+					<SimpleData name="Longitude">-81.19152891</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19152891,28.61153723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Football Practice Field</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/footpracfld2.jpg" alt="Football Practice Field"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Football Practice Field</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/footpracfld2.jpg" alt="Football Practice Field"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60646514</SimpleData>
+					<SimpleData name="Longitude">-81.19296121</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19296121000001,28.60646514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fraternity and Sorority Life (G415)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Fraternity and Sorority Life"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Fraternity and Sorority Life (G415)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Fraternity and Sorority Life"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.603421</SimpleData>
+					<SimpleData name="Longitude">-81.206664</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.206664,28.603421,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Global UCF (GB)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Global UCF"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Global UCF (GB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Global UCF"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60476485</SimpleData>
+					<SimpleData name="Longitude">-81.19806469</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19806469,28.60476485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harris Corporation Engineering Center (HEC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b116.jpg" alt="Harris Corporation Engineering Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Harris Corporation Engineering Center (HEC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b116.jpg" alt="Harris Corporation Engineering Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60064206</SimpleData>
+					<SimpleData name="Longitude">-81.19771408</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19771408,28.60064205999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Health &amp; Public Affairs I (HPA1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b80.jpg" alt="Health & Public Affairs I"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Health &amp; Public Affairs I (HPA1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b80.jpg" alt="Health & Public Affairs I"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60289522</SimpleData>
+					<SimpleData name="Longitude">-81.19881915</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19881915000001,28.60289522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Health &amp; Public Affairs II (HPA2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b90.jpg" alt="Health & Public Affairs II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Health &amp; Public Affairs II (HPA2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b90.jpg" alt="Health & Public Affairs II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60315896</SimpleData>
+					<SimpleData name="Longitude">-81.19821834</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19821834,28.60315896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Health Center &amp; Pharmacy (HC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b127.jpg" alt="Health Center & Pharmacy"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Health Center &amp; Pharmacy (HC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b127.jpg" alt="Health Center & Pharmacy"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59937228</SimpleData>
+					<SimpleData name="Longitude">-81.19929122</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19929122000001,28.59937228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Howard Phillips Hall (HPH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b14.jpg" alt="Howard Phillips Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Howard Phillips Hall (HPH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b14.jpg" alt="Howard Phillips Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.600283</SimpleData>
+					<SimpleData name="Longitude">-81.202776</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.202776,28.600283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Innovative Center (IC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8112_1.jpg" alt="Innovative Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Innovative Center (IC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8112_1.jpg" alt="Innovative Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.589768</SimpleData>
+					<SimpleData name="Longitude">-81.199751</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19975100000001,28.589768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jay Bergman Field - Baseball Stadium (JBF)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b_bergman.jpg" alt="Jay Bergman Field - Baseball Stadium"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Jay Bergman Field - Baseball Stadium (JBF)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b_bergman.jpg" alt="Jay Bergman Field - Baseball Stadium"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60941329</SimpleData>
+					<SimpleData name="Longitude">-81.19611549</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19611549,28.60941329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>John C. Hitt Library (LIB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b2.jpg" alt="John C. Hitt Library"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">John C. Hitt Library (LIB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b2.jpg" alt="John C. Hitt Library"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60011692</SimpleData>
+					<SimpleData name="Longitude">-81.20169594</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20169593999999,28.60011692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>John T. Washington Center (JTWC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b26.jpg" alt="John T. Washington Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">John T. Washington Center (JTWC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b26.jpg" alt="John T. Washington Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60084175</SimpleData>
+					<SimpleData name="Longitude">-81.20213437</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20213437,28.60084175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kappa Alpha Theta - Sorority (G411)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b411.jpg" alt="Kappa Alpha Theta - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Kappa Alpha Theta - Sorority (G411)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b411.jpg" alt="Kappa Alpha Theta - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60636153</SimpleData>
+					<SimpleData name="Longitude">-81.2057768</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2057768,28.60636153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kappa Delta - Sorority (KD)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b407.jpg" alt="Kappa Delta - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Kappa Delta - Sorority (KD)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b407.jpg" alt="Kappa Delta - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60525948</SimpleData>
+					<SimpleData name="Longitude">-81.20488631</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20488631000001,28.60525948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kappa Kappa Gamma - Sorority (G417)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Kappa Kappa Gamma - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Kappa Kappa Gamma - Sorority (G417)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Kappa Kappa Gamma - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.604178</SimpleData>
+					<SimpleData name="Longitude">-81.206764</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20676400000001,28.604178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kappa Sigma - Fraternity (KS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b413.jpg" alt="Kappa Sigma - Fraternity"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Kappa Sigma - Fraternity (KS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b413.jpg" alt="Kappa Sigma - Fraternity"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60657817</SimpleData>
+					<SimpleData name="Longitude">-81.20429086</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20429086,28.60657817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Knight&apos;s Plaza</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b137.jpg" alt="Knight's Plaza"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Knight&apos;s Plaza</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b137.jpg" alt="Knight's Plaza"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.606889</SimpleData>
+					<SimpleData name="Longitude">-81.19842219</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19842219,28.606889,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Lake Claire Recreational Area</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Lake Claire Recreational Area"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Lake Claire Recreational Area</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Lake Claire Recreational Area"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.606856</SimpleData>
+					<SimpleData name="Longitude">-81.203283</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.203283,28.606856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Leisure Pool Services (LPS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b118.jpg" alt="Leisure Pool Services"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Leisure Pool Services (LPS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b118.jpg" alt="Leisure Pool Services"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59551951</SimpleData>
+					<SimpleData name="Longitude">-81.1982398</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1982398,28.59551951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Live Oak Ballroom/Garden Room</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7ab.jpg" alt="Live Oak Ballroom/Garden Room"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Live Oak Ballroom/Garden Room</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7ab.jpg" alt="Live Oak Ballroom/Garden Room"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59788865</SimpleData>
+					<SimpleData name="Longitude">-81.20042848</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20042848,28.59788865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mathematical Sciences Building (MSB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b12.jpg" alt="Mathematical Sciences Building"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Mathematical Sciences Building (MSB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b12.jpg" alt="Mathematical Sciences Building"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59960777</SimpleData>
+					<SimpleData name="Longitude">-81.20073962</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20073961999999,28.59960777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Memory Mall</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu5.jpg" alt="Memory Mall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Memory Mall</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu5.jpg" alt="Memory Mall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60469336</SimpleData>
+					<SimpleData name="Longitude">-81.19880152</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19880152,28.60469336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Millican Hall (MH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b1.jpg" alt="Millican Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Millican Hall (MH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b1.jpg" alt="Millican Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.599106</SimpleData>
+					<SimpleData name="Longitude">-81.202319</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.202319,28.599106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MMAE Lab (MMAE)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="MMAE Facility"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">MMAE Lab (MMAE)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="MMAE Facility"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59197635</SimpleData>
+					<SimpleData name="Longitude">-81.1884549</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1884549,28.59197635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morgridge International Reading Center (MIRC)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/map/mirc.jpg" alt="Morgridge International Reading Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Morgridge International Reading Center (MIRC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/map/mirc.jpg" alt="Morgridge International Reading Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59850874</SimpleData>
+					<SimpleData name="Longitude">-81.20461526</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20461526,28.59850874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nicholson Fieldhouse (NFH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b128.jpg" alt="Nicholson Fieldhouse"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Nicholson Fieldhouse (NFH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b128.jpg" alt="Nicholson Fieldhouse"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60703971</SimpleData>
+					<SimpleData name="Longitude">-81.19423794</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19423793999999,28.60703971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nicholson School of Communication (NSC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/NSC_75.jpg" alt="Nicholson School of Communication"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Nicholson School of Communication (NSC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/NSC_75.jpg" alt="Nicholson School of Communication"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60386071</SimpleData>
+					<SimpleData name="Longitude">-81.20325821</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20325821,28.60386071,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Orange County School System (OCPS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b546.jpg" alt="Orange County School System"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Orange County School System (OCPS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b546.jpg" alt="Orange County School System"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60433286</SimpleData>
+					<SimpleData name="Longitude">-81.20203244</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20203244,28.60433286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlando Tech Center (OTC3)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8113.jpg" alt="Orlando Tech Center - Bldg. 200"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Orlando Tech Center (OTC3)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8113.jpg" alt="Orlando Tech Center - Bldg. 200"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.588424</SimpleData>
+					<SimpleData name="Longitude">-81.19532</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19532,28.588424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlando Tech Center - Bldg. 500 (OTC5)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8120.jpg" alt="Orlando Tech Center - Bldg. 500"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Orlando Tech Center - Bldg. 500 (OTC5)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8120.jpg" alt="Orlando Tech Center - Bldg. 500"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5896977</SimpleData>
+					<SimpleData name="Longitude">-81.1958419</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1958419,28.58969769999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orlando Tech Center - Bldg. 600 (OTC6)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8121.jpg" alt="Orlando Tech Center - Bldg. 600"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Orlando Tech Center - Bldg. 600 (OTC6)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8121.jpg" alt="Orlando Tech Center - Bldg. 600"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59008395</SimpleData>
+					<SimpleData name="Longitude">-81.19653391</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19653391,28.59008395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking &amp; Transportation Services</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu1.jpg" alt="Parking & Transportation Services"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Parking &amp; Transportation Services</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu1.jpg" alt="Parking & Transportation Services"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59723396</SimpleData>
+					<SimpleData name="Longitude">-81.19981157</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19981156999999,28.59723396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partnership II (P2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8119.jpg" alt="Partnership II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Partnership II (P2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8119.jpg" alt="Partnership II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.585822</SimpleData>
+					<SimpleData name="Longitude">-81.199235</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.199235,28.585822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partnership I (P1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8111.jpg" alt="Partnership I"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Partnership I (P1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8111.jpg" alt="Partnership I"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58602594</SimpleData>
+					<SimpleData name="Longitude">-81.19744318</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19744317999999,28.58602594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Partnership III (P3)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8126.jpg" alt="Partnership III"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Partnership III (P3)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8126.jpg" alt="Partnership III"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58504</SimpleData>
+					<SimpleData name="Longitude">-81.199329</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19932900000001,28.58504,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Performing Arts Center (PAC)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Performing Arts Center (PAC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.602062</SimpleData>
+					<SimpleData name="Longitude">-81.204527</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.204527,28.602062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Performing Arts Center Music (PAC)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center Music"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Performing Arts Center Music (PAC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center Music"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.602062</SimpleData>
+					<SimpleData name="Longitude">-81.204527</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.204527,28.602062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Performing Arts Center Theatre (PAC)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center Theatre"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Performing Arts Center Theatre (PAC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Performing Arts Center Theatre"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.602613</SimpleData>
+					<SimpleData name="Longitude">-81.204484</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20448399999999,28.602613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Physical Sciences (PSB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/PS_121.jpg" alt="Physical Sciences"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Physical Sciences (PSB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/PS_121.jpg" alt="Physical Sciences"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59976791</SimpleData>
+					<SimpleData name="Longitude">-81.19789111</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19789111,28.59976791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pi Beta Phi - Sorority (PBP)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b405.jpg" alt="Pi Beta Phi - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Pi Beta Phi - Sorority (PBP)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b405.jpg" alt="Pi Beta Phi - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60583405</SimpleData>
+					<SimpleData name="Longitude">-81.20535302</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20535302,28.60583405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Print Shop (PRNT)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b22.jpg" alt="Print Shop"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Print Shop (PRNT)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b22.jpg" alt="Print Shop"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59733287</SimpleData>
+					<SimpleData name="Longitude">-81.19639444</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19639444000001,28.59733287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Psychology Building (PSY)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b99.jpg" alt="Psychology Building"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Psychology Building (PSY)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b99.jpg" alt="Psychology Building"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.604586</SimpleData>
+					<SimpleData name="Longitude">-81.19945752</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19945752,28.604586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Public Safety Building - Police (UPD)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Public Safety Building Police"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Public Safety Building Police - Police (UPD)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Public Safety Building Police"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.591984</SimpleData>
+					<SimpleData name="Longitude">-81.195912</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19591200000001,28.591984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Recreation Services Field Maintenance (RFM)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/rwc_b88.jpg" alt="Recreation Services Field Maintenance"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Recreation Services Field Maintenance (RFM)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/rwc_b88.jpg" alt="Recreation Services Field Maintenance"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.595815</SimpleData>
+					<SimpleData name="Longitude">-81.199379</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19937899999999,28.59581500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Recreation and Wellness Center (RWC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/RFM_321.jpg" alt="Recreation and Wellness Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Recreation and Wellness Center (RWC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/RFM_321.jpg" alt="Recreation and Wellness Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59380503</SimpleData>
+					<SimpleData name="Longitude">-81.20439815</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20439815,28.59380503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Recycling Center (RC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/RC_327.jpg" alt="Recycling Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Recycling Center (RC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/RC_327.jpg" alt="Recycling Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5916666</SimpleData>
+					<SimpleData name="Longitude">-81.19797694</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19797694,28.5916666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reflecting Pond</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b_pond.jpg" alt="Reflecting Pond"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Reflecting Pond</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b_pond.jpg" alt="Reflecting Pond"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59960306</SimpleData>
+					<SimpleData name="Longitude">-81.20195734</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20195734000001,28.59960306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Reflections Kiosk (KSK)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b310.jpg" alt="Reflections Kiosk"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Reflections Kiosk (KSK)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b310.jpg" alt="Reflections Kiosk"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59931105</SimpleData>
+					<SimpleData name="Longitude">-81.20136189</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20136189,28.59931105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rehearsal Hall (RH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b19.jpg" alt="Rehearsal Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Rehearsal Hall (RH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b19.jpg" alt="Rehearsal Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.601478</SimpleData>
+					<SimpleData name="Longitude">-81.202136</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.202136,28.601478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Research I (R1) UNDER CONSTRUCTION</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Trevor Colbourn Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Research I (R1) UNDER CONSTRUCTION</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Trevor Colbourn Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.602314</SimpleData>
+					<SimpleData name="Longitude">-81.197144</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.197144,28.602314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Research Pavilion (PVL)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8102.jpg" alt="Research Pavilion"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Research Pavilion (PVL)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8102.jpg" alt="Research Pavilion"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58662652</SimpleData>
+					<SimpleData name="Longitude">-81.19568097</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19568097,28.58662652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Robinson Observatory (OBSV)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b74.jpg" alt="Robinson Observatory"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Robinson Observatory (OBSV)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b74.jpg" alt="Robinson Observatory"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59172784</SimpleData>
+					<SimpleData name="Longitude">-81.19062769</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19062769,28.59172784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RWC Park</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu3.jpg" alt="RWC Park"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">RWC Park</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/bu3.jpg" alt="RWC Park"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59262749</SimpleData>
+					<SimpleData name="Longitude">-81.2001388</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.2001388,28.59262749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siemens Energy Center (SEC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EngrFieldLab_b44.jpg" alt="Siemens Energy Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Siemens Energy Center (SEC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/EngrFieldLab_b44.jpg" alt="Siemens Energy Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59177511</SimpleData>
+					<SimpleData name="Longitude">-81.18867621</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.18867621,28.59177511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sigma Chi - Fraternity (SX)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b412.jpg" alt="Sigma Chi - Fraternity"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Sigma Chi - Fraternity (SX)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b412.jpg" alt="Sigma Chi - Fraternity"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.607162</SimpleData>
+					<SimpleData name="Longitude">-81.206192</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.206192,28.607162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Simulation, Training and Technology Center (STTC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/12423.jpg" alt="Simulation, Training and Technology Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Simulation, Training and Technology Center (STTC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/12423.jpg" alt="Simulation, Training and Technology Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58856722</SimpleData>
+					<SimpleData name="Longitude">-81.19730639</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19730638999999,28.58856722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soccer Practice Field</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/socpracfld.jpg" alt="Soccer Practice Field"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Soccer Practice Field</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/socpracfld.jpg" alt="Soccer Practice Field"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.61008203</SimpleData>
+					<SimpleData name="Longitude">-81.19365858</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19365858,28.61008203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Softball Stadium (SBS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b125.jpg" alt="Softball Stadium"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Softball Stadium (SBS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b125.jpg" alt="Softball Stadium"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60467077</SimpleData>
+					<SimpleData name="Longitude">-81.19013416</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19013416,28.60467077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SRC Auditorium (FC-E)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7e.jpg" alt="SRC Auditorium"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">SRC Auditorium (FC-E)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b7e.jpg" alt="SRC Auditorium"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5976409</SimpleData>
+					<SimpleData name="Longitude">-81.1994307</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19943069999999,28.5976409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Storm Water Research Lab (SWRL)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/StormwaterLab_b4.jpg" alt="Storm Water Research Lab"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Storm Water Research Lab (SWRL)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/StormwaterLab_b4.jpg" alt="Storm Water Research Lab"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5916666</SimpleData>
+					<SimpleData name="Longitude">-81.18933486</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.18933486,28.5916666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Student Union (STUN)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b52.jpg" alt="Student Union"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Student Union (STUN)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b52.jpg" alt="Student Union"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.6016695</SimpleData>
+					<SimpleData name="Longitude">-81.20052772</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20052772,28.6016695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teaching Academy (TA)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b93.jpg" alt="Teaching Academy"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Teaching Academy (TA)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b93.jpg" alt="Teaching Academy"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59923569</SimpleData>
+					<SimpleData name="Longitude">-81.20396363</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20396363,28.59923569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Technology Commons I (TC1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b13.jpg" alt="Technology Commons"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Technology Commons I (TC1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b13.jpg" alt="Technology Commons"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60033789</SimpleData>
+					<SimpleData name="Longitude">-81.20046744</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20046744,28.60033789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Technology Commons II (TC2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b29.jpg" alt="Technology Commons II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Technology Commons II (TC2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b29.jpg" alt="Technology Commons II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60059447</SimpleData>
+					<SimpleData name="Longitude">-81.20051367</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20051367000001,28.60059447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Technology Incubator (IRIF)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b3267.jpg" alt="Technology Incubator"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Technology Incubator (IRIF)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b3267.jpg" alt="Technology Incubator"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.5896506</SimpleData>
+					<SimpleData name="Longitude">-81.19819688</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19819688,28.5896506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Venue</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/venue_b50c.jpg" alt="The Venue"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">The Venue</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/venue_b50c.jpg" alt="The Venue"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60791568</SimpleData>
+					<SimpleData name="Longitude">-81.19696307</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19696307,28.60791568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Theatre (TH)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b6.jpg" alt="Theatre"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Theatre (TH)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b6.jpg" alt="Theatre"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.600532</SimpleData>
+					<SimpleData name="Longitude">-81.199669</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.199669,28.600532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Timothy R. Newman Nature Pavilion (TRNP)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/NRP_329.jpg" alt="Timothy R. Newman Nature Pavilion"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Timothy R. Newman Nature Pavilion (TRNP)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/NRP_329.jpg" alt="Timothy R. Newman Nature Pavilion"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60223114</SimpleData>
+					<SimpleData name="Longitude">-81.19400727</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19400727,28.60223114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Track &amp; Soccer Stadium (TSS)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b142.jpg" alt="Track & Soccer Stadium"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Track &amp; Soccer Stadium (TSS)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b142.jpg" alt="Track & Soccer Field"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.6076802</SimpleData>
+					<SimpleData name="Longitude">-81.19522499</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19522499,28.6076802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Transit Center (UCF/LYNX)</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Transit Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Transit Center (UCF/LYNX)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Transit Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.600673</SimpleData>
+					<SimpleData name="Longitude">-81.205051</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.205051,28.600673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trevor Colbourn Hall (TCH) UNDER CONSTRUCTION</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Trevor Colbourn Hall"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Trevor Colbourn Hall (TCH) UNDER CONSTRUCTION</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Trevor Colbourn Hall"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.601881</SimpleData>
+					<SimpleData name="Longitude">-81.203241</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.203241,28.601881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>University Tech Center (UTC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8110.jpg" alt="University Tech Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">University Tech Center (UTC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8110.jpg" alt="University Tech Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58934914</SimpleData>
+					<SimpleData name="Longitude">-81.19389462</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19389461999999,28.58934914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>University Tower (UTWR)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8118.jpg" alt="University Tower"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">University Tower (UTWR)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b8118.jpg" alt="University Tower"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.58791483</SimpleData>
+					<SimpleData name="Longitude">-81.1990981</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.1990981,28.58791483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veterans Commemorative Site</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Veterans Commemorative Site"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Veterans Commemorative Site</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Veterans Commemorative Site"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60360565</SimpleData>
+					<SimpleData name="Longitude">-81.19944319</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19944319,28.60360565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Visitor and Parking Information (VPI)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b502.jpg" alt="Visitor and Parking Information Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Visitor and Parking Information Center (VPI)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b502.jpg" alt="Visitor and Parking Information Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59665463</SimpleData>
+					<SimpleData name="Longitude">-81.20328235</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20328234999999,28.59665463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Visual Arts Building (VAB)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b51.jpg" alt="Visual Arts Building"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Visual Arts Building (VAB)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b51.jpg" alt="Visual Arts Building"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60273038</SimpleData>
+					<SimpleData name="Longitude">-81.20347011</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20347011,28.60273038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Water Tower</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b301.jpg" alt="Water Tower"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Water Tower</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b301.jpg" alt="Water Tower"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59783684</SimpleData>
+					<SimpleData name="Longitude">-81.19688796</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19688796,28.59783684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wayne Densch Center for Student-Athlete Leadership</name>
+			<description><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Wayne Densch Center for Student-Athlete Leadership"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Wayne Densch Center for Student-Athlete Leadership</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://ucfmobile.ucf.edu/app/images/no_image.png" alt="Wayne Densch Center for Student-Athlete Leadership"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.607487</SimpleData>
+					<SimpleData name="Longitude">-81.191288</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20157647000001,28.59579976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wayne Densch Center I (WD1)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b38.jpg" alt="Wayne Densch Center I"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Wayne Densch Center I (WD1)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b38.jpg" alt="Wayne Densch Center I"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59579976</SimpleData>
+					<SimpleData name="Longitude">-81.20157647</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20157647000001,28.59579976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wayne Densch Center II (WD2)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b39.jpg" alt="Wayne Densch Center II"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Wayne Densch Center II (WD2)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b39.jpg" alt="Wayne Densch Center II"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.59575501</SimpleData>
+					<SimpleData name="Longitude">-81.20057332</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20057332,28.59575501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wayne Densch Sport Center (WDSC)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b77.jpg" alt="Wayne Densch Sport Center"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Wayne Densch Sport Center (WDSC)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b77.jpg" alt="Wayne Densch Sport Center"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60616373</SimpleData>
+					<SimpleData name="Longitude">-81.1942594</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.19425940000001,28.60616373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Zeta Tau Alpha - Sorority (ZTA)</name>
+			<description><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b401.jpg" alt="Zeta Tau Alpha - Sorority"></p>]]></description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#csv_20160824020812">
+					<SimpleData name="Name">Zeta Tau Alpha - Sorority (ZTA)</SimpleData>
+					<SimpleData name="Description"><![CDATA[<p><img src="http://map.ucf.edu/media/uploads/images/b401.jpg" alt="Zeta Tau Alpha - Sorority"></p>]]></SimpleData>
+					<SimpleData name="Latitude">28.60492981</SimpleData>
+					<SimpleData name="Longitude">-81.20646345</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.20646345,28.60492981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Schema name="csv_20160824020812" id="csv_20160824020812">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+	</Folder>
+</Document>
+</kml>
