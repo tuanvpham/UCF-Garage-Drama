@@ -23,79 +23,90 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="khD-Af-enF">
-                                <rect key="frame" x="15" y="40" width="345" height="577"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UCF Garage Drama" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fhl-ZZ-oMI">
-                                        <rect key="frame" x="0.0" y="0.0" width="345" height="24"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="20"/>
-                                        <color key="textColor" red="1" green="0.792156862745098" blue="0.023529411764705882" alpha="1" colorSpace="calibratedRGB"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pick a building:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MFv-ew-nmY">
-                                        <rect key="frame" x="0.0" y="24" width="345" height="20.5"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zoS-PV-1TM">
-                                        <rect key="frame" x="0.0" y="44.5" width="345" height="350"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="350" id="YA6-ad-nOt"/>
-                                        </constraints>
-                                    </pickerView>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Sji-G5-trv">
-                                        <rect key="frame" x="0.0" y="394.5" width="345" height="30"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="30" id="HS5-lQ-E4Z"/>
-                                        </constraints>
-                                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                        <state key="normal" title="Submit">
-                                            <color key="titleColor" red="1" green="0.78823529411764703" blue="0.015686274509803921" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        </state>
-                                    </button>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Alarm at:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MHH-7r-Ici">
-                                        <rect key="frame" x="0.0" y="424.5" width="345" height="20.5"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Ex: 6 AM or 6:15 AM" textAlignment="natural" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="geL-Jv-e3C">
-                                        <rect key="frame" x="0.0" y="445" width="345" height="30"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="30" id="Eb3-vx-tRh"/>
-                                        </constraints>
-                                        <nil key="textColor"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                        <textInputTraits key="textInputTraits"/>
-                                    </textField>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BN5-8O-SCL">
-                                        <rect key="frame" x="0.0" y="475" width="345" height="102"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="102" id="mUO-n1-vLj"/>
-                                        </constraints>
-                                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
-                                        <state key="normal" title="Save Alarm">
-                                            <color key="titleColor" red="1" green="0.78823529411764703" blue="0.015686274509803921" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        </state>
-                                    </button>
-                                </subviews>
-                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UCF Garage Drama" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nhV-m2-c8x">
+                                <rect key="frame" x="0.0" y="40" width="375" height="26.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="22"/>
+                                <color key="textColor" red="1" green="0.79215686269999996" blue="0.023529411760000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pick a building:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hpw-uw-tz1">
+                                <rect key="frame" x="16" y="82.5" width="116" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XkP-og-lI9">
+                                <rect key="frame" x="16" y="112" width="343" height="216"/>
+                            </pickerView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sort garage by:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qHv-Iw-2hU">
+                                <rect key="frame" x="16" y="344" width="118" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose desired garage's availability:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r8V-AU-hOU">
+                                <rect key="frame" x="16" y="508.5" width="279" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Ex: 50, 60, 85" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="yhn-fh-JIz">
+                                <rect key="frame" x="16" y="537.5" width="343" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="REm-lZ-Aw6">
+                                <rect key="frame" x="16" y="373" width="343" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="120" id="J0k-2e-PBz"/>
+                                </constraints>
+                            </pickerView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cp3-ru-gYv">
+                                <rect key="frame" x="16" y="583.5" width="343" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="e3d-Al-nLA"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
+                                <state key="normal" title="Submit">
+                                    <color key="titleColor" red="1" green="0.78823529410000004" blue="0.015686274510000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="didSubmit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dzA-qB-7Jq"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="khD-Af-enF" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="Hhd-gS-h8B"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="khD-Af-enF" secondAttribute="bottom" constant="50" id="iOx-tI-eHr"/>
-                            <constraint firstItem="khD-Af-enF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="on0-4a-o3T"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="khD-Af-enF" secondAttribute="trailing" constant="15" id="y1t-dI-HPa"/>
+                            <constraint firstItem="Hpw-uw-tz1" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="2P6-RP-FM6"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="yhn-fh-JIz" secondAttribute="trailing" constant="16" id="3CU-TD-OhA"/>
+                            <constraint firstItem="Cp3-ru-gYv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="42T-EO-9kW"/>
+                            <constraint firstItem="r8V-AU-hOU" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="4bF-tH-W3A"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="REm-lZ-Aw6" secondAttribute="trailing" constant="16" id="DV1-gY-ysO"/>
+                            <constraint firstItem="r8V-AU-hOU" firstAttribute="top" secondItem="REm-lZ-Aw6" secondAttribute="bottom" constant="16" id="FcQ-Na-rmJ"/>
+                            <constraint firstItem="qHv-Iw-2hU" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Jzu-8H-36V"/>
+                            <constraint firstItem="XkP-og-lI9" firstAttribute="top" secondItem="Hpw-uw-tz1" secondAttribute="bottom" constant="8" id="LRD-SW-j5H"/>
+                            <constraint firstItem="Hpw-uw-tz1" firstAttribute="top" secondItem="nhV-m2-c8x" secondAttribute="bottom" constant="16" id="NZG-JB-fIZ"/>
+                            <constraint firstItem="Cp3-ru-gYv" firstAttribute="top" secondItem="yhn-fh-JIz" secondAttribute="bottom" constant="16" id="PNu-mZ-Ttx"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Cp3-ru-gYv" secondAttribute="trailing" constant="16" id="T0d-ie-VTN"/>
+                            <constraint firstItem="qHv-Iw-2hU" firstAttribute="top" secondItem="XkP-og-lI9" secondAttribute="bottom" constant="16" id="YxC-DE-0j0"/>
+                            <constraint firstItem="nhV-m2-c8x" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="Zye-64-FGN"/>
+                            <constraint firstItem="XkP-og-lI9" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aSW-fV-Z5t"/>
+                            <constraint firstItem="nhV-m2-c8x" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="b2F-kE-1WM"/>
+                            <constraint firstItem="yhn-fh-JIz" firstAttribute="top" secondItem="r8V-AU-hOU" secondAttribute="bottom" constant="8" id="hkW-mT-CWc"/>
+                            <constraint firstItem="XkP-og-lI9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="iNt-hk-wHe"/>
+                            <constraint firstItem="REm-lZ-Aw6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="rkx-2g-hDW"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="XkP-og-lI9" secondAttribute="trailing" constant="16" id="sHb-3U-YQq"/>
+                            <constraint firstItem="REm-lZ-Aw6" firstAttribute="top" secondItem="qHv-Iw-2hU" secondAttribute="bottom" constant="8" id="tYj-D1-kPc"/>
+                            <constraint firstItem="yhn-fh-JIz" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="uxL-Ns-DuN"/>
+                            <constraint firstItem="nhV-m2-c8x" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="zCa-Ks-cxU"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="alarmInput" destination="geL-Jv-e3C" id="2Ty-ub-rZf"/>
-                        <outlet property="buildingPicker" destination="zoS-PV-1TM" id="2gC-Cn-PfY"/>
-                        <outlet property="saveAlarm" destination="BN5-8O-SCL" id="fem-br-uk0"/>
-                        <outlet property="submitBuilding" destination="Sji-G5-trv" id="l0D-CB-DHP"/>
+                        <outlet property="availabilityInput" destination="yhn-fh-JIz" id="AZu-j4-0M1"/>
+                        <outlet property="buildingPicker" destination="XkP-og-lI9" id="5Zw-zD-y1K"/>
+                        <outlet property="sortPicker" destination="REm-lZ-Aw6" id="tQg-Rh-Z3t"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
